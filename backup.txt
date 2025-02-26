@@ -1,0 +1,703 @@
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Anjali Khatree",
+        "employee_id": "PRS100027/06",
+        "designation": "SR AR Associate",
+        "pan_no": "MDWPK5275L",
+        "bank_no": "38432564227",
+        
+        # Salary details
+        "initial_salary": 26000,
+        "payslip_ammount": 26000,
+        "increment_amount": 26000,
+        
+        # Email details
+        "email_id": "Anjalikhatree0920@gmail.com",
+        "phone_number": "8700213017",
+        
+        # Important dates
+        "offer_date": "2023-07-03",
+        "joining_date": "2023-07-07",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-12-10",
+        "release_date": "2024-12-13",
+        "email_date": "2024-11-08",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "er"
+    }
+
+
+employee = {
+        # Company details
+        "company_name": "pre",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "US IT Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2022-05-06",
+        "joining_date": "2022-05-14",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-08-31",
+        "release_date": "2024-08-31",
+        "email_date": "2024-07-26",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+
+    employee = {
+        # Company details
+        "company_name": "pre",
+        
+        # Personal details
+        "name": "Arsalan Ali Siddiqui",
+        "employee_id": "PS100036/62",
+        "designation": "SR. US IT Recruiter",
+        "pan_no": "NIZPS6512R",
+        "bank_no": "40420917770",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 29800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "arsalan23ali@gmail.com",
+        "phone_number": "9319787472",
+        
+        # Important dates
+        "offer_date": "2022-12-01",
+        "joining_date": "2022-12-05",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-08-31",
+        "release_date": "2024-08-31",
+        "email_date": "2024-11-18",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Vishal Rangnath Shinde",
+        "employee_id": "PS100036/63",
+        "designation": "SR. Ar Associate",
+        "pan_no": "LCVPS6717E",
+        "bank_no": "50100285021929",
+        
+        # Salary details
+        "initial_salary": 22800,
+        "payslip_ammount": 28300,
+        "increment_amount": 28300,
+        
+        # Email details
+        "email_id": "vishalshindeu1@gmail.com",
+        "phone_number": "8208621717",
+        
+        # Important dates
+        "offer_date": "2023-07-15",
+        "joining_date": "2023-07-15",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-12-15",
+        "release_date": "2024-12-15",
+        "email_date": "2024-11-13",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "CP ROHAN",
+        "employee_id": "PRS100027/07",
+        "designation": "SR. Ar Associate",
+        "pan_no": "FXFPR7892C",
+        "bank_no": "55550120370745",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 25000,
+        "increment_amount": 25000,
+        
+        # Email details
+        "email_id": "rohancp1224@gmail.com",
+        "phone_number": "9995876476",
+        
+        # Important dates
+        "offer_date": "2023-07-07",
+        "joining_date": "2023-07-15",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-11-11",
+        "release_date": "2024-11-11",
+        "email_date": "2024-10-09",
+        
+        # Additional details
+        "payslip_month": 12, 
+        "x": "is"
+    }
+
+employee = {
+        # Company details
+        "company_name": "kas",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/64",
+        "designation": "US IT Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "000675706511",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 25800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-04-27",
+        "joining_date": "2023-05-02",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2025-01-13",
+        "release_date": "2025-01-13",
+        "email_date": "2024-12-06",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Himanshu Jain",
+        "employee_id": "PRS100027/08",
+        "designation": "Sr AR Associate",
+        "pan_no": "BOWPJ2654G",
+        "bank_no": "1862010022969",
+        
+        # Salary details
+        "initial_salary": 29200,
+        "payslip_ammount": 29200,
+        "increment_amount": 29200,
+        
+        # Email details
+        "email_id": "himan1996jain@gmail.com",
+        "phone_number": "8273488265",
+        
+        # Important dates
+        "offer_date": "2024-04-01",
+        "joining_date": "2024-04-08",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-12-27",
+        "release_date": "2024-12-27",
+        "email_date": "2024-11-22",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+
+ employee = {
+        # Company details
+        "company_name": "pre",
+        
+        # Personal details
+        "name": "KAPISH RAMAVTAR",
+        "employee_id": "PS100036/65",
+        "designation": "US IT RECRUITER",
+        "pan_no": "FUBPK5944R",
+        "bank_no": "3615582412",
+        
+        # Salary details
+        "initial_salary": 23600,
+        "payslip_ammount": 28500,
+        "increment_amount": 25500,
+        
+        # Email details
+        "email_id": "kapishtanwar9@gmail.com",
+        "phone_number": "8076632287",
+        
+        # Important dates
+        "offer_date": "2022-06-23",
+        "joining_date": "2022-07-01",
+        "increment_letter_date": "2023-06-07",
+        "increment_effective_date": "2023-06-07",
+        "last_working_date": "2025-01-16",
+        "release_date": "2025-01-16",
+        "email_date": "2024-12-12",
+        
+        # Additional details
+        "payslip_month": 2, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Chappidi Nani Chowdary",
+        "employee_id": "PRS100027/05",
+        "designation": "AR CALLER",
+        "pan_no": "CELPC2309K",
+        "bank_no": "134110100226243",
+        
+        # Salary details
+        "initial_salary": 23600,
+        "payslip_ammount": 23600,
+        "increment_amount": 23600,
+        
+        # Email details
+        "email_id": "cnani0584@gmail.com",
+        "phone_number": "9390134843",
+        
+        # Important dates
+        "offer_date": "2023-11-24",
+        "joining_date": "2023-12-02",
+        "increment_letter_date": "2023-06-07",
+        "increment_effective_date": "2023-06-07",
+        "last_working_date": "2024-12-06",
+        "release_date": "2024-12-06",
+        "email_date": "2024-11-04",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "er"
+    }
+employee = {
+        # Company details
+        "company_name": "pre",
+        
+        # Personal details
+        "name": "KAPISH RAMAVTAR",
+        "employee_id": "PS100036/65",
+        "designation": "US IT RECRUITER",
+        "pan_no": "FUBPK5944R",
+        "bank_no": "3615582412",
+        
+        # Salary details
+        "initial_salary": 23600,
+        "payslip_ammount": 28500,
+        "increment_amount": 25500,
+        
+        # Email details
+        "email_id": "kapishtanwar9@gmail.com",
+        "phone_number": "8076632287",
+        
+        # Important dates
+        "offer_date": "2022-06-23",
+        "joining_date": "2022-07-01",
+        "increment_letter_date": "2023-06-07",
+        "increment_effective_date": "2023-06-07",
+        "last_working_date": "2025-01-16",
+        "release_date": "2025-01-16",
+        "email_date": "2024-12-17",
+        
+        # Additional details
+        "payslip_month": 2, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "US IT Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 22800,
+        "payslip_ammount": 25800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-04-28",
+        "joining_date": "2022-05-02",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2025-01-13",
+        "release_date": "2025-01-13",
+        "email_date": "2024-12-12",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "HR Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2022-05-06",
+        "joining_date": "2022-05-14",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2023-04-28",
+        "release_date": "2023-04-28",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "AYUSH KESARWANI",
+        "employee_id": "PS100036/60",
+        "designation": "AR Associate",
+        "pan_no": "FBZPK4175H",
+        "bank_no": "50100450501619",
+        
+        # Salary details
+        "initial_salary": 29166,
+        "payslip_ammount": 29166,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-08-02",
+        "joining_date": "2023-08-08",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-12-10",
+        "release_date": "2024-12-10",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Archana Tiwari",
+        "employee_id": "PRS100027/10",
+        "designation": "AR Associate",
+        "pan_no": "BVJPT0671F",
+        "bank_no": "4101108001972",
+        
+        # Salary details
+        "initial_salary": 20000,
+        "payslip_ammount": 20000,
+        "increment_amount": 25000,
+        
+        # Email details
+        "email_id": "imarchanatiwari1@gmail.com",
+        "phone_number": "7319029437 ",
+        
+        # Important dates
+        "offer_date": "2023-08-01",
+        "joining_date": "2023-08-08",
+        "increment_letter_date": "2024-09-02",
+        "increment_effective_date": "2024-09-02",
+        "last_working_date": "2024-12-14",
+        "release_date": "2024-12-14",
+        "email_date": "2024-11-14",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "er"
+    }
+
+employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "HR Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 22800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-05-02",
+        "joining_date": "2023-05-02",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2023-04-28",
+        "release_date": "2023-04-28",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+    employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "HR Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 19800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2022-05-02",
+        "joining_date": "2022-05-14",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2023-04-28",
+        "release_date": "2023-04-28",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "US IT Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 22800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-04-26",
+        "joining_date": "2022-05-14",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2023-04-28",
+        "release_date": "2023-04-28",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "kas",
+        
+        # Personal details
+        "name": "hema katkuri",
+        "employee_id": "KA100036/50",
+        "designation": "US IT RECRUITER",
+        "pan_no": "LPTK8472D",
+        "bank_no": "40737640195",
+        
+        # Salary details
+        "initial_salary": 20800,
+        "payslip_ammount": 26250,
+        "increment_amount": 26250,
+        
+        # Email details
+        "email_id": "katkurihema78@gmail.com",
+        "phone_number": "6300891092",
+        
+        # Important dates
+        "offer_date": "2023-11-01",
+        "joining_date": "2023-11-08",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2025-02-11",
+        "release_date": "2025-02-11",
+        "email_date": "2025-01-09",
+        
+        # Additional details
+        "payslip_month": 3, 
+        "x": "er"
+    }
+
+employee = {
+        # Company details
+        "company_name": "kass",
+        
+        # Personal details
+        "name": "A K Mohanram",
+        "employee_id": "PS100036/61",
+        "designation": "US NON IT / IT Recruiter",
+        "pan_no": "DFUPM3643R",
+        "bank_no": "0000000675706511",
+        
+        # Salary details
+        "initial_salary": 22800,
+        "payslip_ammount": 22800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "mohanram44zz@gmail.com",
+        "phone_number": "7299101431",
+        
+        # Important dates
+        "offer_date": "2023-04-26",
+        "joining_date": "2023-05-02",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2025-01-23",
+        "release_date": "2025-01-23",
+        "email_date": "2023-03-27",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Molagavalli Navaneeth Raju",
+        "employee_id": "KA100036/51",
+        "designation": "SR. AR Associate",
+        "pan_no": "BIRPN5911P",
+        "bank_no": "62425229652",
+        
+        # Salary details
+        "initial_salary": 21800,
+        "payslip_ammount": 25800,
+        "increment_amount": 25800,
+        
+        # Email details
+        "email_id": "Navaneethraju555@gmail.com",
+        "phone_number": "7019538571",
+        
+        # Important dates
+        "offer_date": "2023-09-26",
+        "joining_date": "2023-10-03",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2025-01-31",
+        "release_date": "2025-01-31",
+        "email_date": "2024-12-30",
+        
+        # Additional details
+        "payslip_month": 2, 
+        "x": "is"
+    }
+employee = {
+        # Company details
+        "company_name": "rcm",
+        
+        # Personal details
+        "name": "Rutushree Prakash Shirgire",
+        "employee_id": "KA100036/52",
+        "designation": "AR Associate",
+        "pan_no": "ENRPS5785L",
+        "bank_no": "50100527779252",
+        
+        # Salary details
+        "initial_salary": 19000,
+        "payslip_ammount": 25000,
+        "increment_amount": 25000,
+        
+        # Email details
+        "email_id": "rutushreeshirgire@gmail.com",
+        "phone_number": "8600316958",
+        
+        # Important dates
+        "offer_date": "2023-08-01",
+        "joining_date": "2023-08-07",
+        "increment_letter_date": "2024-06-07",
+        "increment_effective_date": "2024-06-07",
+        "last_working_date": "2024-12-30",
+        "release_date": "2024-12-30",
+        "email_date": "2024-11-30",
+        
+        # Additional details
+        "payslip_month": 1, 
+        "x": "er"
+    }

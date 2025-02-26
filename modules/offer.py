@@ -45,6 +45,7 @@ def generate_offer_letter(
         context = {
             "dol": convert_date(offer_date),
             "name": name.title(),
+            "loc": "Noida",
             "des": designation.upper(),
             "doj": convert_date(joining_date),
             "ctc": format_number_indian(ctc),
@@ -59,7 +60,7 @@ def generate_offer_letter(
             "mgs": int(monthly_salary),
             "ags": ctc,
             "mctc": int(net_monthly),
-            "actc": int(net_monthly * 12)
+            "actc": int(net_monthly * 12),
         }
         
         # Generate and save document

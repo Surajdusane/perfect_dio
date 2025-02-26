@@ -13,35 +13,35 @@ def main():
         "company_name": "rcm",
         
         # Personal details
-        "name": "Shantanu Mohan Bhore",
-        "employee_id": "PRS100027/11",
-        "designation": "Accounts Receivable Executive",
-        "pan_no": "FGLPB9751F",
-        "bank_no": "00000040279181660",
+        "name": "Chappidi Nani Chowdary",
+        "employee_id": "PRS100027/05",
+        "designation": "AR Associate",
+        "pan_no": "CELPC2309K",
+        "bank_no": "134110100226243",
         
         # Salary details
-        "initial_salary": 24800,
-        "payslip_ammount": 27800,
-        "increment_amount": 27800,
+        "initial_salary": 22800,
+        "payslip_ammount": 23716,
+        "increment_amount": 29750,
         
         # Email details
-        "email_id": "sbhore337@gmail.com",
-        "phone_number": "8668895186",
+        "email_id": "nikitasharma0052@gmail.com",
+        "phone_number": "9390134843",
         
         # Important dates
-        "offer_date": "2023-08-01",
-        "joining_date": "2023-08-09",
+        "offer_date": "2022-08-05",
+        "joining_date": "2023-12-10",
         "increment_letter_date": "2024-06-07",
         "increment_effective_date": "2024-06-07",
-        "last_working_date": "2024-12-30",
-        "release_date": "2024-12-30",
-        "email_date": "2024-11-30",
+        "last_working_date": "2024-12-16",
+        "release_date": "2024-11-14",
+        "email_date": "2024-11-14",
         
         # Additional details
         "payslip_month": 1, 
-        "x": "is"
+        "x": "er"
     }
-    
+
     # Generate offer letter
     print("\n=== Generating Offer Letter ===")
     generate_offer_letter(

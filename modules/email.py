@@ -3,6 +3,7 @@ import os
 from .coma import format_number_indian
 from .file import file
 from .date import convert_date
+from datetime import datetime
 
 OUTPUT_DIR = "word"
 
@@ -39,6 +40,7 @@ def generate_email(
         context = {
             "name": name.title(),
             "mail": email_id,
+            "outdate": datetime.strptime(email_date, '%Y-%m-%d').strftime('%d/%m/%Y'),
             "dts": convert_date(email_date),
             "dtr": convert_date(email_date),
             "empi": employee_id,
@@ -48,7 +50,7 @@ def generate_email(
         
         # Generate and save document
         doc.render(context)
-        output_file = os.path.join(OUTPUT_DIR, f"Email Credentials - {name.title()}.docx")
+        output_file = os.path.join(OUTPUT_DIR, f"Mail - {name.title()}.docx")
         doc.save(output_file)
         
         print(f"Success: Email credentials letter generated: {output_file}")

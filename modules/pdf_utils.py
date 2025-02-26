@@ -77,3 +77,6 @@ def remove_pdf_metadata():
         
     except Exception as e:
         print(f"Error in metadata removal process: {str(e)}")
+
+# convert_word_to_pdf()
+# remove_pdf_metadata()

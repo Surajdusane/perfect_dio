@@ -65,7 +65,7 @@ def last6monthdata(month):
     return data
 
 
-def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, employee_id, designation, salary):
+def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, employee_id, designation, salary, year=2024):
     try:
         template_path = file("payslip", company_name)
         doc = DocxTemplate(template_path)
@@ -73,10 +73,10 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
         basic_pay = (int(salary)-2500)*70/100
         hra = (int(salary)-2500)*18/100
         bonus = (int(salary)-2500)*12/100
-        total_earning = int(basic_pay) + int(hra) + int(bonus) + 2500
+        total_earning = salary #int(basic_pay) + int(hra) + int(bonus) + 2500
         pt = calculate_PT(int(salary))
         total_deduction = 800
-        net_pay = int(total_earning) - total_deduction
+        net_pay = int(salary) - total_deduction
 
         # Create the word directory if it doesn't exist
         os.makedirs(folder_path, exist_ok=True)
@@ -92,11 +92,12 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
             context = {
                 'mon': month_details[current_month][0],  # Current month
                 'date': convert_date(date_of_joining),
+                'year': year if current_month > 5 else year + 1,
                 'pep': month_details[previous_month][0],  # Previous month
                 'pd': month_details[previous_month][1],  # Days in previous month
                 'pan': pan_no,
                 'bank': bank_no,
-                'name': name,
+                'name': name.upper(),
                 'empi': employee_id,
                 'des': designation,
                 'bp': format_number_indian(int(basic_pay)),
@@ -106,6 +107,7 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
                 'pt': pt,
                 'td': total_deduction,
                 'np': format_number_indian(int(net_pay)),
+                "loc": "Noida",
             }
             
             # Create a new template for each month to avoid overwriting
