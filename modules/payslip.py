@@ -107,7 +107,7 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
                 'pt': pt,
                 'td': total_deduction,
                 'np': format_number_indian(int(net_pay)),
-                "loc": "Noida",
+                "loc": "Kolkata",
             }
             
             # Create a new template for each month to avoid overwriting

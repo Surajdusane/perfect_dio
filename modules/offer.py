@@ -45,7 +45,7 @@ def generate_offer_letter(
         context = {
             "dol": convert_date(offer_date),
             "name": name.title(),
-            "loc": "Noida",
+            "loc": "Kolkata",
             "des": designation.upper(),
             "doj": convert_date(joining_date),
             "ctc": format_number_indian(ctc),

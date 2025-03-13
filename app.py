@@ -10,36 +10,36 @@ def main():
     # Employee details with all dates and values
     employee = {
         # Company details
-        "company_name": "rcm",
+        "company_name": "asc",
         
         # Personal details
-        "name": "Shantanu Mohan Bhore",
-        "employee_id": "PRS100027/11",
-        "designation": "Accounts Receivable Executive",
-        "pan_no": "FGLPB9751F",
-        "bank_no": "00000040279181660",
+        "name": "Rutuja Dattatray Jadhav",
+        "employee_id": "ASC100027/04",
+        "designation": "IT Recruiter",
+        "pan_no": "CCRPJ1569C",
+        "bank_no": "7545376201",
         
         # Salary details
-        "initial_salary": 24800,
-        "payslip_ammount": 27800,
-        "increment_amount": 27800,
+        "initial_salary": 22800,
+        "payslip_ammount": 28300,
+        "increment_amount": 28300,
         
         # Email details
-        "email_id": "sbhore337@gmail.com",
-        "phone_number": "8668895186",
+        "email_id": "rutujadhav1299@gmail.com",
+        "phone_number": "8080859290",
         
         # Important dates
-        "offer_date": "2023-08-01",
-        "joining_date": "2023-08-09",
+        "offer_date": "2022-09-05",
+        "joining_date": "2022-09-12",
         "increment_letter_date": "2024-06-07",
         "increment_effective_date": "2024-06-07",
-        "last_working_date": "2024-12-30",
-        "release_date": "2024-12-30",
-        "email_date": "2024-11-30",
+        "last_working_date": "2025-03-12",
+        "release_date": "2025-03-12",
+        "email_date": "2025-02-12",
         
         # Additional details
-        "payslip_month": 1, 
-        "x": "is"
+        "payslip_month": 4, 
+        "x": "er"
     }
     
     # Generate offer letter
