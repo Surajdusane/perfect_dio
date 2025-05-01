@@ -7,7 +7,7 @@ from .file import file
 
 month_details = {
     1: ["January", 31],
-    2: ["February", 29],
+    2: ["February", 28],
     3: ["March", 31],
     4: ["April", 30],
     5: ["May", 31],

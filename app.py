@@ -13,34 +13,34 @@ def main():
         "company_name": "asc",
         
         # Personal details
-        "name": "Rutuja Dattatray Jadhav",
-        "employee_id": "ASC100027/04",
-        "designation": "IT Recruiter",
-        "pan_no": "CCRPJ1569C",
-        "bank_no": "7545376201",
+        "name": "Prashant B. Ratnaparkhi",
+        "employee_id": "ASC100027/06",
+        "designation": "IT RECRUITER",
+        "pan_no": "CRTPR5413G",
+        "bank_no": "00000032024295068",
         
         # Salary details
-        "initial_salary": 22800,
-        "payslip_ammount": 28300,
-        "increment_amount": 28300,
+        "initial_salary": 19500,
+        "payslip_ammount": 30500,
+        "increment_amount": 24500,
         
         # Email details
-        "email_id": "rutujadhav1299@gmail.com",
-        "phone_number": "8080859290",
+        "email_id": "prashantratnaparkhi83@gmail.com",
+        "phone_number": "7020652034",
         
         # Important dates
-        "offer_date": "2022-09-05",
-        "joining_date": "2022-09-12",
-        "increment_letter_date": "2024-06-07",
-        "increment_effective_date": "2024-06-07",
-        "last_working_date": "2025-03-12",
-        "release_date": "2025-03-12",
-        "email_date": "2025-02-12",
+        "offer_date": "2022-09-26",
+        "joining_date": "2022-10-03",
+        "increment_letter_date": "2023-10-07",
+        "increment_effective_date": "2023-10-07",
+        "last_working_date": "2025-04-25",
+        "release_date": "2025-04-25",
+        "email_date": "2025-03-25",
         
         # Additional details
-        "payslip_month": 4, 
-        "x": "er"
-    }
+        "payslip_month": 5, 
+        "x": "is"
+        }
     
     # Generate offer letter
     print("\n=== Generating Offer Letter ===")
