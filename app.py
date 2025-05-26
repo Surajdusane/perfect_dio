@@ -5,42 +5,12 @@ from modules.relese import generate_release_letter
 from modules.email import generate_email
 from modules.pdf_utils import convert_word_to_pdf, remove_pdf_metadata
 from datetime import datetime, timedelta
+import json
 
 def main():
+    with open("data.json") as f:
     # Employee details with all dates and values
-    employee = {
-        # Company details
-        "company_name": "asc",
-        
-        # Personal details
-        "name": "Prashant B. Ratnaparkhi",
-        "employee_id": "ASC100027/06",
-        "designation": "IT RECRUITER",
-        "pan_no": "CRTPR5413G",
-        "bank_no": "00000032024295068",
-        
-        # Salary details
-        "initial_salary": 19500,
-        "payslip_ammount": 30500,
-        "increment_amount": 24500,
-        
-        # Email details
-        "email_id": "prashantratnaparkhi83@gmail.com",
-        "phone_number": "7020652034",
-        
-        # Important dates
-        "offer_date": "2022-09-26",
-        "joining_date": "2022-10-03",
-        "increment_letter_date": "2023-10-07",
-        "increment_effective_date": "2023-10-07",
-        "last_working_date": "2025-04-25",
-        "release_date": "2025-04-25",
-        "email_date": "2025-03-25",
-        
-        # Additional details
-        "payslip_month": 5, 
-        "x": "is"
-        }
+        employee = json.load(f)
     
     # Generate offer letter
     print("\n=== Generating Offer Letter ===")

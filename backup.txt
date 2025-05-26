@@ -1107,3 +1107,367 @@ employee = {
         "payslip_month": 5, 
         "x": "is"
         }
+
+{
+    "company_name": "kas",
+    
+    "name": "Harshit Saini",
+    "employee_id": "KA100036/57",
+    "designation": "IT RECRUITER",
+    "pan_no": "KTOPS3616D",
+    "bank_no": "40453652395",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 24900,
+    
+    "email_id": "harshitsaini9411@gmail.com",
+    "phone_number": "9161449037",
+    
+    "offer_date": "2022-09-05",
+    "joining_date": "2022-09-12",
+    "increment_letter_date": "2023-09-07",
+    "increment_effective_date": "2023-09-07",
+    "last_working_date": "2025-05-02",
+    "release_date": "2025-05-02",
+    "email_date": "2025-04-02",
+    
+    "payslip_month": 5, 
+    "x": "is"
+    }
+
+{
+    "company_name": "asc",
+    
+    "name": "Renuka Paliwal",
+    "employee_id": "ASC100027/07",
+    "designation": "IT RECRUITER",
+    "pan_no": "CPJPP6323K",
+    "bank_no": "50037319400",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28300,
+    "increment_amount": 24300,
+    
+    "email_id": "paliwalrenuka22@gmail.com",
+    "phone_number": "7665847061",
+    
+    "offer_date": "2022-10-06",
+    "joining_date": "2022-10-13",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-05-02",
+    "release_date": "2025-05-02",
+    "email_date": "2025-04-02",
+    
+    "payslip_month": 5, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Tripti tomar",
+    "employee_id": "PRS100027/15",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "BHBPB4342P",
+    "bank_no": "31932916977",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 25800,
+    "increment_amount": 25800,
+    
+    "email_id": "bhadoriyatraptimp@gmail.com",
+    "phone_number": "7415700268",
+    
+    "offer_date": "2023-08-01",
+    "joining_date": "2023-08-08",
+    "increment_letter_date": "2024-08-07",
+    "increment_effective_date": "2024-08-07",
+    "last_working_date": "2024-12-27",
+    "release_date": "2024-12-27",
+    "email_date": "2024-11-27",
+    
+    "payslip_month": 1, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Yashas Sanjay Manohar",
+    "employee_id": "PRS100027/16",
+    "designation": "CUSTOMER SUPPORT ASSOCIATE",
+    "pan_no": "GUMPM1349L",
+    "bank_no": "60388049957",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28800,
+    "increment_amount": 28800,
+    
+    "email_id": "yashasmanohar.92@gmail.com",
+    "phone_number": "7738225001",
+    
+    "offer_date": "2023-09-25",
+    "joining_date": "2023-10-04",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-03-28",
+    "release_date": "2025-03-28",
+    "email_date": "2025-02-28",
+    
+    "payslip_month": 4, 
+    "x": "is"
+    }
+
+{
+    "company_name": "asc",
+    
+    "name": "Shana N",
+    "employee_id": "ASC100027/08",
+    "designation": "IT Recruiter",
+    "pan_no": "DPNPN4973L",
+    "bank_no": "272701000018461",
+    
+    "initial_salary": 25500,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "shananazar2003@gmail.com",
+    "phone_number": "6380556964",
+    
+    "offer_date": "2023-04-24",
+    "joining_date": "2023-05-03",
+    "increment_letter_date": "2024-05-07",
+    "increment_effective_date": "2024-05-07",
+    "last_working_date": "2025-05-06",
+    "release_date": "2025-05-06",
+    "email_date": "2025-04-04",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "rcm",
+    
+    "name": "Kumar Shubham",
+    "employee_id": "PRS100027/17",
+    "designation": "Ar associate",
+    "pan_no": "GZYPS9894B",
+    "bank_no": "7312195097",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 32800,
+    "increment_amount": 32800,
+    
+    "email_id": "shananazar2003@gmail.com",
+    "phone_number": "6380556964",
+    
+    "offer_date": "2023-04-24",
+    "joining_date": "2023-02-12",
+    "increment_letter_date": "2024-05-07",
+    "increment_effective_date": "2024-05-07",
+    "last_working_date": "2025-05-06",
+    "release_date": "2025-05-06",
+    "email_date": "2025-04-04",
+    
+    "payslip_month": 5, 
+    "x": "is"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Eshita Bisht",
+    "employee_id": "PRS100027/18",
+    "designation": "Charge posting",
+    "pan_no": "DWJPB4448F",
+    "bank_no": "682110110011857",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 23800,
+    "increment_amount": 23800,
+    
+    "email_id": "shananazar2003@gmail.com",
+    "phone_number": "9026812213",
+    
+    "offer_date": "2023-04-24",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2024-05-07",
+    "increment_effective_date": "2024-05-07",
+    "last_working_date": "2025-05-06",
+    "release_date": "2025-05-06",
+    "email_date": "2025-04-04",
+    
+    "payslip_month": 3, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "rcm",
+    
+    "name": "Durgadas Vattem",
+    "employee_id": "PRS100027/19",
+    "designation": "AR Associate",
+    "pan_no": "FREPD5802B",
+    "bank_no": "38432549447",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "durgadas.vattem@gmail.com",
+    "phone_number": "8712113773",
+    
+    "offer_date": "2023-01-06",
+    "joining_date": "2023-01-13",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-03-24",
+    "release_date": "2025-03-24",
+    "email_date": "2025-02-24",
+    
+    "payslip_month": 4, 
+    "x": "is"
+}
+
+{
+    "company_name": "pre",
+    
+    "name": "Sandeep Gurunath Dhavalgi",
+    "employee_id": "PS100036/67",
+    "designation": "Technical Recruiter",
+    "pan_no": "HDPPD1221R",
+    "bank_no": "38417482117",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 29100,
+    "increment_amount": 29100,
+    
+    "email_id": "sandeepd6703@gmail.com",
+    "phone_number": "7666726109",
+    
+    "offer_date": "2023-05-08",
+    "joining_date": "2023-05-15",
+    "increment_letter_date": "2024-05-06",
+    "increment_effective_date": "2024-05-06",
+    "last_working_date": "2025-03-24",
+    "release_date": "2025-03-24",
+    "email_date": "2025-02-24",
+    
+    "payslip_month": 6, 
+    "x": "is"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "Om Prakash Negi",
+    "employee_id": "KA100036/58",
+    "designation": "IT Recruiter",
+    "pan_no": "AXLPN2557M",
+    "bank_no": "894519998",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 33400,
+    "increment_amount": 25400,
+    
+    "email_id": "-On420074@gmail.com",
+    "phone_number": "9971598992",
+    
+    "offer_date": "2022-03-01",
+    "joining_date": "2022-03-06",
+    "increment_letter_date": "2023-03-06",
+    "increment_effective_date": "2023-03-06",
+    "last_working_date": "2025-05-23",
+    "release_date": "2025-05-23",
+    "email_date": "2025-04-23",
+    
+    "payslip_month": 6, 
+    "x": "is"
+}
+
+{
+    "company_name": "rcm",
+    
+    "name": "Neha Babu Palkirti",
+    "employee_id": "PRS100027/20",
+    "designation": "SR PRE AUTH ANALYST",
+    "pan_no": "CELPP9807B",
+    "bank_no": "560384831",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 45800,
+    "increment_amount": 45800,
+    
+    "email_id": "harshitsaini9411@gmail.com",
+    "phone_number": "7304775972",
+    
+    "offer_date": "2022-09-05",
+    "joining_date": "2020-06-10",
+    "increment_letter_date": "2023-09-07",
+    "increment_effective_date": "2023-09-07",
+    "last_working_date": "2025-05-14",
+    "release_date": "2025-05-14",
+    "email_date": "2025-04-14",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "ga1",
+    
+    "name": "P Devika Rani",
+    "employee_id": "GRCM1027/05",
+    "designation": "ar caller",
+    "pan_no": "EZRPR9342J",
+    "bank_no": "40252801776",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 26800,
+    "increment_amount": 26800,
+    
+    "email_id": "pdevika@globala1rcm.com",
+    "phone_number": "8074430358",
+    
+    "offer_date": "2023-12-05",
+    "joining_date": "2023-12-12",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-03-21",
+    "release_date": "2025-03-21",
+    "email_date": "2025-02-21",
+    
+    "payslip_month": 4, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Neha Palkirti",
+    "employee_id": "PRS100027/21",
+    "designation": "sr pre auth analyst",
+    "pan_no": "CELPP9807P",
+    "bank_no": "560384831",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 45800,
+    "increment_amount": 22800,
+    
+    "email_id": "nehapalkirti@gmail.com",
+    "phone_number": "7304775972",
+    
+    "offer_date": "2020-06-03",
+    "joining_date": "2020-06-10",
+    "increment_letter_date": "2021-06-07",
+    "increment_effective_date": "2021-06-07",
+    "last_working_date": "2025-05-22",
+    "release_date": "2025-05-22",
+    "email_date": "2025-04-22",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }

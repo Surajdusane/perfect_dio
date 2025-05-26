@@ -1,0 +1,27 @@
+{
+    "company_name": "kas",
+    
+    "name": "Harshit Saini",
+    "employee_id": "KA100036/57",
+    "designation": "IT RECRUITER",
+    "pan_no": "KTOPS3616D",
+    "bank_no": "40453652395",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 24900,
+    
+    "email_id": "harshitsaini9411@gmail.com",
+    "phone_number": "9161449037",
+    
+    "offer_date": "2022-09-05",
+    "joining_date": "2022-09-12",
+    "increment_letter_date": "2023-09-07",
+    "increment_effective_date": "2023-09-07",
+    "last_working_date": "2025-05-24",
+    "release_date": "2025-05-24",
+    "email_date": "2025-04-19",
+    
+    "payslip_month": 5, 
+    "x": "is"
+    }
