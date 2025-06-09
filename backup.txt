@@ -1471,3 +1471,172 @@ employee = {
     "payslip_month": 6, 
     "x": "er"
     }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Kumar Shubham",
+    "employee_id": "PRS100027/22",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "GZYPS9894B",
+    "bank_no": "7312195097",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 32800,
+    "increment_amount": 32800,
+    
+    "email_id": "pandey.shubham03183@gmail.com",
+    "phone_number": "9315937818",
+    
+    "offer_date": "2023-02-06",
+    "joining_date": "2023-02-13",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-04-18",
+    "release_date": "2025-04-18",
+    "email_date": "2025-03-18",
+    
+    "payslip_month": 5, 
+    "x": "is"
+    }
+
+
+    {
+    "company_name": "rcm",
+    
+    "name": "Neha Babu Palkirti",
+    "employee_id": "PRS100027/20",
+    "designation": "SR PRE AUTH ANALYST",
+    "pan_no": "CELPP9807B",
+    "bank_no": "560384831",
+    
+    "initial_salary": 40800,
+    "payslip_ammount": 45800,
+    "increment_amount": 42800,
+    
+    "email_id": "harshitsaini9411@gmail.com",
+    "phone_number": "7304775972",
+    
+    "offer_date": "2020-06-05",
+    "joining_date": "2020-06-10",
+    "increment_letter_date": "2023-09-07",
+    "increment_effective_date": "2023-09-07",
+    "last_working_date": "2025-05-14",
+    "release_date": "2025-05-14",
+    "email_date": "2025-04-14",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Shaik Rizwana Sultana",
+    "employee_id": "PS100036/68",
+    "designation": "US IT Recruiter",
+    "pan_no": "PWUPS1179D",
+    "bank_no": "3575645488",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "rizwanasultana@precesionstaffing.com",
+    "phone_number": "8147379685",
+    
+    "offer_date": "2022-12-26",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-05-26",
+    "release_date": "2025-05-26",
+    "email_date": "2025-04-26",
+    
+    "payslip_month": 5, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Kumar Shubham",
+    "employee_id": "PRS100027/22",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "GZYPS9894B",
+    "bank_no": "7312195097",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 26800,
+    "increment_amount": 32800,
+    
+    "email_id": "pandey.shubham03183@gmail.com",
+    "phone_number": "9315937818",
+    
+    "offer_date": "2023-02-06",
+    "joining_date": "2023-02-13",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-04-18",
+    "release_date": "2025-04-18",
+    "email_date": "2025-03-18",
+    
+    "payslip_month": 4, 
+    "x": "is"
+    }
+
+{
+    "company_name": "asc",
+    
+    "name": "Renuka Paliwal",
+    "employee_id": "ASC100027/07",
+    "designation": "IT RECRUITER",
+    "pan_no": "CPJPP6323K",
+    "bank_no": "50037319400",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28300,
+    "increment_amount": 24300,
+    
+    "email_id": "paliwalrenuka22@gmail.com",
+    "phone_number": "7665847061",
+    
+    "offer_date": "2022-10-06",
+    "joining_date": "2022-10-13",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-05-06",
+    "release_date": "2025-05-06",
+    "email_date": "2025-04-02",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Kumar Shubham",
+    "employee_id": "PRS100027/22",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "GZYPS9894B",
+    "bank_no": "7312195097",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 19800,
+    "increment_amount": 32800,
+    
+    "email_id": "pandey.shubham03183@gmail.com",
+    "phone_number": "9315937818",
+    
+    "offer_date": "2023-02-06",
+    "joining_date": "2023-02-13",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-04-18",
+    "release_date": "2025-04-18",
+    "email_date": "2025-03-18",
+    
+    "payslip_month": 5, 
+    "x": "is"
+    }

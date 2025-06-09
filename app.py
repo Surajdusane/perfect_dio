@@ -3,6 +3,7 @@ from modules.increment import generate_increment_letter
 from modules.offer import generate_offer_letter
 from modules.relese import generate_release_letter
 from modules.email import generate_email
+from modules.experience import generate_experience_letter
 from modules.pdf_utils import convert_word_to_pdf, remove_pdf_metadata
 from datetime import datetime, timedelta
 import json
@@ -73,6 +74,19 @@ def main():
         last_working_date=employee["last_working_date"],
         x=employee["x"]
     )
+
+    # Generate experience letter
+    # print("\n=== Generating experience Letter ===")
+    # generate_experience_letter(
+    #     company_name=employee["company_name"],
+    #     release_date=employee["release_date"],
+    #     name=employee["name"],
+    #     employee_id=employee["employee_id"],
+    #     designation=employee["designation"],
+    #     joining_date=employee["joining_date"],
+    #     last_working_date=employee["last_working_date"],
+    #     x=employee["x"]
+    # )
 
     # Convert all Word documents to PDF
     print("\n=== Converting Documents to PDF ===")

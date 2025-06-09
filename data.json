@@ -1,27 +1,27 @@
 {
-    "company_name": "kas",
+    "company_name": "pre",
     
-    "name": "Harshit Saini",
-    "employee_id": "KA100036/57",
-    "designation": "IT RECRUITER",
-    "pan_no": "KTOPS3616D",
-    "bank_no": "40453652395",
+    "name": "Prashant AnilKumar Singh",
+    "employee_id": "PS100036/69",
+    "designation": "US IT RECRUITER",
+    "pan_no": "JXOPS0854Q",
+    "bank_no": "76480100000435",
     
     "initial_salary": 19800,
-    "payslip_ammount": 29900,
-    "increment_amount": 24900,
+    "payslip_ammount": 31100,
+    "increment_amount": 31100,
     
-    "email_id": "harshitsaini9411@gmail.com",
-    "phone_number": "9161449037",
+    "email_id": "prashants151296@gmail.com",
+    "phone_number": "7977163252",
     
-    "offer_date": "2022-09-05",
-    "joining_date": "2022-09-12",
-    "increment_letter_date": "2023-09-07",
-    "increment_effective_date": "2023-09-07",
-    "last_working_date": "2025-05-24",
-    "release_date": "2025-05-24",
-    "email_date": "2025-04-19",
+    "offer_date": "2023-03-07",
+    "joining_date": "2023-03-14",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-05-30",
+    "release_date": "2025-05-30",
+    "email_date": "2025-04-30",
     
-    "payslip_month": 5, 
+    "payslip_month": 6, 
     "x": "is"
     }
