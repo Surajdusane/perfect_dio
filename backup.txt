@@ -1640,3 +1640,339 @@ employee = {
     "payslip_month": 5, 
     "x": "is"
     }
+
+{
+    "company_name": "pre",
+    
+    "name": "Prashant AnilKumar Singh",
+    "employee_id": "PS100036/69",
+    "designation": "US IT RECRUITER",
+    "pan_no": "JXOPS0854Q",
+    "bank_no": "76480100000435",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 31100,
+    "increment_amount": 31100,
+    
+    "email_id": "prashants151296@gmail.com",
+    "phone_number": "7977163252",
+    
+    "offer_date": "2023-03-07",
+    "joining_date": "2023-03-14",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-05-30",
+    "release_date": "2025-05-30",
+    "email_date": "2025-04-30",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Gaurav dev choudhury",
+    "employee_id": "KA100036/59",
+    "designation": "IT RECRUITER",
+    "pan_no": "BGEPC7266B",
+    "bank_no": "20319979290",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 32500,
+    "increment_amount": 25500,
+    
+    "email_id": "gauravdevchoudhury15@gmail.com",
+    "phone_number": "9353164659",
+    
+    "offer_date": "2022-07-06",
+    "joining_date": "2022-07-13",
+    "increment_letter_date": "2023-07-08",
+    "increment_effective_date": "2023-07-08",
+    "last_working_date": "2025-06-14",
+    "release_date": "2025-06-14",
+    "email_date": "2025-05-12",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+{
+    "company_name": "asc",
+    
+    "name": "Nirbhey Singh",
+    "employee_id": "ASC100027/09",
+    "designation": "IT RECRUITER",
+    "pan_no": "KMHPS3781M",
+    "bank_no": "924010049744738",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 31300,
+    "increment_amount": 25300,
+    
+    "email_id": "nirbhayakanwar@gmail.com",
+    "phone_number": "7018832730",
+    
+    "offer_date": "2022-07-18",
+    "joining_date": "2022-07-25",
+    "increment_letter_date": "2023-07-08",
+    "increment_effective_date": "2023-07-08",
+    "last_working_date": "2025-06-18",
+    "release_date": "2025-06-18",
+    "email_date": "2025-05-17",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+{
+    "company_name": "ga1",
+    
+    "name": "Renu choudhary",
+    "employee_id": "GRCM1027/06",
+    "designation": "AR associate",
+    "pan_no": "BZCPC4984K",
+    "bank_no": "",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 23800,
+    "increment_amount": 29800,
+    
+    "email_id": "renuchoudhary@globala1rcm.com",
+    "phone_number": "7067246448",
+    
+    "offer_date": "2024-01-24",
+    "joining_date": "2024-02-01",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-05-31",
+    "release_date": "2025-05-31",
+    "email_date": "2025-04-30",
+    
+    "payslip_month": 7, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Sandeep Gurunath Dhavalgi",
+    "employee_id": "PS100036/67",
+    "designation": "Technical Recruiter",
+    "pan_no": "HDPPD1221R",
+    "bank_no": "38417482117",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 29100,
+    "increment_amount": 29100,
+    
+    "email_id": "sandeepd6703@gmail.com",
+    "phone_number": "7666726109",
+    
+    "offer_date": "2023-05-08",
+    "joining_date": "2023-05-15",
+    "increment_letter_date": "2024-05-06",
+    "increment_effective_date": "2024-05-06",
+    "last_working_date": "2025-05-31",
+    "release_date": "2025-05-31",
+    "email_date": "2025-04-30",
+    
+    "payslip_month": 7, 
+    "x": "is"
+}
+
+{
+    "company_name": "ga1",
+    
+    "name": "Renu choudhary",
+    "employee_id": "GRCM1027/06",
+    "designation": "AR associate",
+    "pan_no": "BZCPC4984K",
+    "bank_no": "38478222452",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "renuchoudhary@globala1rcm.com",
+    "phone_number": "7067246448",
+    
+    "offer_date": "2024-01-24",
+    "joining_date": "2024-02-01",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-05-31",
+    "release_date": "2025-05-31",
+    "email_date": "2025-04-30",
+    
+    "payslip_month": 7, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Gaurav dev choudhury",
+    "employee_id": "KA100036/59",
+    "designation": "US IT RECRUITER",
+    "pan_no": "BGEPC7266B",
+    "bank_no": "20319979290",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 32500,
+    "increment_amount": 25500,
+    
+    "email_id": "gauravdevchoudhury15@gmail.com",
+    "phone_number": "9353164659",
+    
+    "offer_date": "2022-07-06",
+    "joining_date": "2022-07-13",
+    "increment_letter_date": "2023-07-08",
+    "increment_effective_date": "2023-07-08",
+    "last_working_date": "2025-06-14",
+    "release_date": "2025-06-14",
+    "email_date": "2025-05-12",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Mayank Pal",
+    "employee_id": "PRS100027/23",
+    "designation": "AR Executive",
+    "pan_no": "GGSPM6764F",
+    "bank_no": "28050100019401",
+    
+    "initial_salary": 24800,
+    "payslip_ammount": 24800,
+    "increment_amount": 30800,
+    
+    "email_id": "mayankpal571@gmail.com",
+    "phone_number": "6394290662",
+    
+    "offer_date": "2023-11-25",
+    "joining_date": "2023-12-02",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-05-16",
+    "release_date": "2025-05-16",
+    "email_date": "2025-04-16",
+    
+    "payslip_month": 6, 
+    "x": "is"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Pratik Tijare",
+    "employee_id": "PRS100027/24",
+    "designation": "AR Executive",
+    "pan_no": "BEPPT1374C", 
+    "bank_no": "20223486860",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 27500,
+    "increment_amount": 27500,
+    
+    "email_id": "pratiktijare.9@gmail.com",
+    "phone_number": "9834970287",
+    
+    "offer_date": "2023-11-21",
+    "joining_date": "2023-12-01",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-05-29",
+    "release_date": "2025-05-29",
+    "email_date": "2025-04-29",
+    
+    "payslip_month": 7, 
+    "x": "is"
+    }
+
+{
+    "company_name": "ga1",
+    
+    "name": "irendla aadesh",
+    "employee_id": "GRCM1027/07",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "AFOPI1552E", 
+    "bank_no": "110202877813",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 23800,
+    "increment_amount": 29500,
+    
+    "email_id": "irendlaaadesh@globala1rcm.com",
+    "phone_number": "9392937906",
+    
+    "offer_date": "2023-11-21",
+    "joining_date": "2023-12-04",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-05-20",
+    "release_date": "2025-05-20",
+    "email_date": "2025-04-19",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "B. Bhumika",
+    "employee_id": "KA100036/60",
+    "designation": "US IT Recruiter",
+    "pan_no": "FGSPB0092N", 
+    "bank_no": "39742560131",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 32000,
+    "increment_amount": 32000,
+    
+    "email_id": "bhumikareddy036@gmail.com",
+    "phone_number": "6305883403",
+    
+    "offer_date": "2023-03-13",
+    "joining_date": "2023-03-20",
+    "increment_letter_date": "2025-03-07",
+    "increment_effective_date": "2025-03-07",
+    "last_working_date": "2025-06-27",
+    "release_date": "2025-06-27",
+    "email_date": "2025-05-27",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Gullapalli Nooka Raju",
+    "employee_id": "PRS100027/25",
+    "designation": "AR Associate",
+    "pan_no": "DOYPG9648H", 
+    "bank_no": "4646410605",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 23800,
+    "increment_amount": 31800,
+    
+    "email_id": "rnooka575@gmail.com",
+    "phone_number": "8688943593",
+    
+    "offer_date": "2024-02-01",
+    "joining_date": "2024-02-08",
+    "increment_letter_date": "2025-02-07",
+    "increment_effective_date": "2025-02-07",
+    "last_working_date": "2025-05-29",
+    "release_date": "2025-05-29",
+    "email_date": "2025-04-28",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }

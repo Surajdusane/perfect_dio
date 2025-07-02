@@ -76,7 +76,7 @@ def main():
     )
 
     # Generate experience letter
-    # print("\n=== Generating experience Letter ===")
+    print("\n=== Generating experience Letter ===")
     # generate_experience_letter(
     #     company_name=employee["company_name"],
     #     release_date=employee["release_date"],
