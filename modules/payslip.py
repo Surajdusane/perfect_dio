@@ -92,7 +92,7 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
             context = {
                 'mon': month_details[current_month][0],  # Current month
                 'date': convert_date(date_of_joining),
-                'year': year if current_month > 5 else year + 1,
+                'year': 2025,
                 'pep': month_details[previous_month][0],  # Previous month
                 'pd': month_details[previous_month][1],  # Days in previous month
                 'pan': pan_no,

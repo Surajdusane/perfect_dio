@@ -1976,3 +1976,59 @@ employee = {
     "payslip_month": 6, 
     "x": "er"
     }
+
+{
+    "company_name": "asc",
+    
+    "name": "Ajit Ramesh Waghchaure",
+    "employee_id": "ASC100027/10",
+    "designation": "Technical Recruiter",
+    "pan_no": "AFMPW5807N",
+    "bank_no": "50100526231901",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29300,
+    "increment_amount": 29300,
+    
+    "email_id": "ajitwaghchaure@yahoo.com",
+    "phone_number": "8291582113",
+    
+    "offer_date": "2022-12-01",
+    "joining_date": "2022-12-06",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-07-02",
+    "release_date": "2025-07-02",
+    "email_date": "2025-06-02",
+    
+    "payslip_month": 7, 
+    "x": "is"
+    }
+
+{
+    "company_name": "asc",
+    
+    "name": "Ajit Ramesh Waghchaure",
+    "employee_id": "ASC100027/10",
+    "designation": "Technical Recruiter",
+    "pan_no": "AFMPW5807N",
+    "bank_no": "50100526231901",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29300,
+    "increment_amount": 29300,
+    
+    "email_id": "ajitwaghchaure@yahoo.com",
+    "phone_number": "8291582113",
+    
+    "offer_date": "2022-12-01",
+    "joining_date": "2022-12-06",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-07-02",
+    "release_date": "2025-07-02",
+    "email_date": "2025-06-02",
+    
+    "payslip_month": 7, 
+    "x": "is"
+    }

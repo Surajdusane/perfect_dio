@@ -1,27 +1,27 @@
 {
     "company_name": "asc",
     
-    "name": "Ajit Ramesh Waghchaure",
-    "employee_id": "ASC100027/10",
-    "designation": "Technical Recruiter",
-    "pan_no": "AFMPW5807N",
-    "bank_no": "50100526231901",
+    "name": "MOHAMMED AREEB ABRANI N",
+    "employee_id": "ASC100027/11",
+    "designation": "Domestic IT Recruiter",
+    "pan_no": "CAJPN2883F", 
+    "bank_no": "110202877813",
     
     "initial_salary": 19800,
-    "payslip_ammount": 29300,
-    "increment_amount": 24800,
+    "payslip_ammount": 24300,
+    "increment_amount": 29300,
     
-    "email_id": "ajitwaghchaure@yahoo.com",
-    "phone_number": "8291582113",
+    "email_id": "areebabrani9@gmail.com",
+    "phone_number": "8281184882",
     
-    "offer_date": "2022-12-01",
-    "joining_date": "2022-12-06",
-    "increment_letter_date": "2023-12-07",
-    "increment_effective_date": "2023-12-07",
-    "last_working_date": "2025-07-02",
-    "release_date": "2025-07-02",
-    "email_date": "2025-06-02",
+    "offer_date": "2022-09-14",
+    "joining_date": "2022-09-21",
+    "increment_letter_date": "2023-09-06",
+    "increment_effective_date": "2023-09-06",
+    "last_working_date": "2025-07-16",
+    "release_date": "2025-07-16",
+    "email_date": "2025-06-16",
     
-    "payslip_month": 7, 
+    "payslip_month": 8, 
     "x": "is"
     }
