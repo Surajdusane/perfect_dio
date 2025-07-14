@@ -1,26 +1,26 @@
 {
-    "company_name": "asc",
+    "company_name": "kas",
     
-    "name": "MOHAMMED AREEB ABRANI N",
-    "employee_id": "ASC100027/11",
-    "designation": "Domestic IT Recruiter",
-    "pan_no": "CAJPN2883F", 
-    "bank_no": "110202877813",
+    "name": "Moparthy Roseline",
+    "employee_id": "KA100036/62",
+    "designation": "IT Recruiter",
+    "pan_no": "DWOPR8257P", 
+    "bank_no": "50100270823692",
     
     "initial_salary": 19800,
-    "payslip_ammount": 24300,
-    "increment_amount": 29300,
+    "payslip_ammount": 30100,
+    "increment_amount": 30100,
     
-    "email_id": "areebabrani9@gmail.com",
-    "phone_number": "8281184882",
+    "email_id": "Roseline.Moparthy@gmail.com",
+    "phone_number": "7022331857",
     
-    "offer_date": "2022-09-14",
-    "joining_date": "2022-09-21",
-    "increment_letter_date": "2023-09-06",
-    "increment_effective_date": "2023-09-06",
-    "last_working_date": "2025-07-16",
-    "release_date": "2025-07-16",
-    "email_date": "2025-06-16",
+    "offer_date": "2022-11-14",
+    "joining_date": "2022-11-21",
+    "increment_letter_date": "2024-11-06",
+    "increment_effective_date": "2024-11-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
     
     "payslip_month": 8, 
     "x": "is"
