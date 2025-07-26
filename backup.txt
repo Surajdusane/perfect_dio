@@ -2088,3 +2088,286 @@ employee = {
     "payslip_month": 8, 
     "x": "is"
     }
+
+{
+    "company_name": "kas",
+    
+    "name": "Moparthy Roseline",
+    "employee_id": "KA100036/62",
+    "designation": "IT Recruiter",
+    "pan_no": "DWOPR8257P", 
+    "bank_no": "50100270823692",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 30100,
+    "increment_amount": 30100,
+    
+    "email_id": "Roseline.Moparthy@gmail.com",
+    "phone_number": "7022331857",
+    
+    "offer_date": "2022-11-14",
+    "joining_date": "2022-11-21",
+    "increment_letter_date": "2024-11-06",
+    "increment_effective_date": "2024-11-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
+    
+    "payslip_month": 8, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Urwarshi verma",
+    "employee_id": "PS100036/70",
+    "designation": "IT Recruiter",
+    "pan_no": "BXDPV8340K", 
+    "bank_no": "959010110013993",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29800,
+    "increment_amount": 23800,
+    
+    "email_id": "urwarshi19@gmail.com",
+    "phone_number": "9244536301",
+    
+    "offer_date": "2022-06-01",
+    "joining_date": "2022-06-08",
+    "increment_letter_date": "2023-06-06",
+    "increment_effective_date": "2023-06-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Sakshi Sharma",
+    "employee_id": "PS100036/71",
+    "designation": "IT Recruiter",
+    "pan_no": "GEOPS8744P", 
+    "bank_no": "39430100007436",
+    
+    "initial_salary": 23700,
+    "payslip_ammount": 29900,
+    "increment_amount": 25994,
+    
+    "email_id": "sakshisharmaa282@gmail.com",
+    "phone_number": "9354662406",
+    
+    "offer_date": "2022-10-25",
+    "joining_date": "2022-11-01",
+    "increment_letter_date": "2023-11-06",
+    "increment_effective_date": "2023-11-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-06-25",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+    
+{
+    "company_name": "kas",
+    
+    "name": "Adityan M",
+    "employee_id": "KA100036/61",
+    "designation": "IT Recruiter",
+    "pan_no": "EBYPA3496P", 
+    "bank_no": "40469711810",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "10madityan@gmail.com",
+    "phone_number": "6361555237",
+    
+    "offer_date": "2023-11-13",
+    "joining_date": "2023-11-20",
+    "increment_letter_date": "2024-11-06",
+    "increment_effective_date": "2024-11-06",
+    "last_working_date": "2025-07-18",
+    "release_date": "2025-07-18",
+    "email_date": "2025-07-02",
+    
+    "payslip_month": 8, 
+    "x": "is"
+    }
+
+
+{
+    "company_name": "kas",
+    
+    "name": "Moparthy Roseline",
+    "employee_id": "KA100036/62",
+    "designation": "IT Recruiter",
+    "pan_no": "DWOPR8257P", 
+    "bank_no": "50100270823692",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 30100,
+    "increment_amount": 30100,
+    
+    "email_id": "Roseline.Moparthy@gmail.com",
+    "phone_number": "7022331857",
+    
+    "offer_date": "2022-11-14",
+    "joining_date": "2022-11-21",
+    "increment_letter_date": "2024-11-06",
+    "increment_effective_date": "2024-11-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Rutika Raj Godbole",
+    "employee_id": "PS100036/72",
+    "designation": "IT Recruiter",
+    "pan_no": "EXSPG5606R", 
+    "bank_no": "62302029108",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 24800,
+    
+    "email_id": "ruts1097@gmail.com",
+    "phone_number": "9172605626",
+    
+    "offer_date": "2022-09-01",
+    "joining_date": "2022-09-05",
+    "increment_letter_date": "2023-09-06",
+    "increment_effective_date": "2023-09-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Rutika Raj Godbole",
+    "employee_id": "PS100036/72",
+    "designation": "IT Recruiter",
+    "pan_no": "EXSPG5606R", 
+    "bank_no": "62302029108",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 24800,
+    
+    "email_id": "ruts1097@gmail.com",
+    "phone_number": "9172605626",
+    
+    "offer_date": "2022-09-01",
+    "joining_date": "2022-09-05",
+    "increment_letter_date": "2023-09-06",
+    "increment_effective_date": "2023-09-06",
+    "last_working_date": "2025-07-21",
+    "release_date": "2025-07-21",
+    "email_date": "2025-06-21",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "ga1",
+    
+    "name": "Syed Shayan Shaukat Ali",
+    "employee_id": "GRCM1027/08",
+    "designation": "AR Associate",
+    "pan_no": "IPZPS6707C", 
+    "bank_no": "37376775320",
+    
+    "initial_salary": 22000,
+    "payslip_ammount": 30000,
+    "increment_amount": 30000,
+    
+    "email_id": "ruts1097@globala1rcm.com",
+    "phone_number": "9172605626",
+    
+    "offer_date": "2023-12-15",
+    "joining_date": "2023-12-22",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-06-23",
+    "release_date": "2025-06-23",
+    "email_date": "2025-05-23",
+    
+    "payslip_month": 7, 
+    "x": "is"
+    }
+
+    
+{
+    "company_name": "pre",
+    
+    "name": "Sakshi Sharma",
+    "employee_id": "PS100036/71",
+    "designation": "IT Recruiter",
+    "pan_no": "GEOPS8744P", 
+    "bank_no": "39430100007436",
+    
+    "initial_salary": 23700,
+    "payslip_ammount": 29900,
+    "increment_amount": 25994,
+    
+    "email_id": "sakshisharmaa282@gmail.com",
+    "phone_number": "9354662406",
+    
+    "offer_date": "2022-10-25",
+    "joining_date": "2022-11-01",
+    "increment_letter_date": "2023-11-06",
+    "increment_effective_date": "2023-11-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-07-21",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Neelam Pandey",
+    "employee_id": "PS100036/73",
+    "designation": "IT Domestic Recruiter",
+    "pan_no": "HAZPP4735H",
+    "bank_no": "41340815295",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 23900,
+    
+    "email_id": "neelam0803pandey@gmail.com",
+    "phone_number": "7354253693",
+    
+    "offer_date": "2022-09-01",
+    "joining_date": "2022-09-08",
+    "increment_letter_date": "2023-09-06",
+    "increment_effective_date": "2023-09-06",
+    "last_working_date": "2025-07-28",
+    "release_date": "2025-07-28",
+    "email_date": "2025-06-28",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }

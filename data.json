@@ -1,27 +1,27 @@
 {
-    "company_name": "kas",
+    "company_name": "asc",
     
-    "name": "Moparthy Roseline",
-    "employee_id": "KA100036/62",
-    "designation": "IT Recruiter",
-    "pan_no": "DWOPR8257P", 
-    "bank_no": "50100270823692",
+    "name": "Rajni Arvind Jadhav",
+    "employee_id": "ASC100027/12",
+    "designation": "technical recruiter",
+    "pan_no": "CAKPJ1383B",
+    "bank_no": "110110100013584",
     
     "initial_salary": 19800,
-    "payslip_ammount": 30100,
-    "increment_amount": 30100,
+    "payslip_ammount": 29900,
+    "increment_amount": 23900,
     
-    "email_id": "Roseline.Moparthy@gmail.com",
-    "phone_number": "7022331857",
+    "email_id": "rajnijadhav109@gmail.com",
+    "phone_number": "8095169064",
     
-    "offer_date": "2022-11-14",
-    "joining_date": "2022-11-21",
-    "increment_letter_date": "2024-11-06",
-    "increment_effective_date": "2024-11-06",
-    "last_working_date": "2025-07-21",
-    "release_date": "2025-07-21",
-    "email_date": "2025-06-21",
+    "offer_date": "2022-10-03",
+    "joining_date": "2022-10-10",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
     
     "payslip_month": 8, 
-    "x": "is"
+    "x": "er"
     }

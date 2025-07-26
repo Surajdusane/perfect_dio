@@ -1,10 +1,12 @@
+from modules.email import generate_email
 from modules.payslip import create_payslip
-from modules.increment import generate_increment_letter
 from modules.offer import generate_offer_letter
 from modules.relese import generate_release_letter
-from modules.email import generate_email
+from modules.increment import generate_increment_letter
 from modules.experience import generate_experience_letter
+from modules.salary_certificate import generate_salary_certificatee
 from modules.pdf_utils import convert_word_to_pdf, remove_pdf_metadata
+
 from datetime import datetime, timedelta
 import json
 
@@ -23,6 +25,17 @@ def main():
         joining_date=employee["joining_date"],
         ctc=employee["initial_salary"] * 12
     )
+
+    # Generate Salary Certificate
+    # print("\n=== Generating Salary Certificate===")
+    # generate_salary_certificatee(
+    #     company_name=employee["company_name"],
+    #     letter_date=employee["last_working_date"],
+    #     name=employee["name"],
+    #     designation=employee["designation"],
+    #     joining_date=employee["joining_date"],
+    #     current_ctc=employee["payslip_ammount"] * 12
+    # )
 
     # Generate email credentials letter
     print("\n=== Generating Email Credentials Letter ===")
