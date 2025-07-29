@@ -1,27 +1,27 @@
 {
-    "company_name": "asc",
-    
-    "name": "Rajni Arvind Jadhav",
-    "employee_id": "ASC100027/12",
-    "designation": "technical recruiter",
-    "pan_no": "CAKPJ1383B",
-    "bank_no": "110110100013584",
-    
-    "initial_salary": 19800,
-    "payslip_ammount": 29900,
-    "increment_amount": 23900,
-    
-    "email_id": "rajnijadhav109@gmail.com",
-    "phone_number": "8095169064",
-    
-    "offer_date": "2022-10-03",
-    "joining_date": "2022-10-10",
-    "increment_letter_date": "2023-10-07",
-    "increment_effective_date": "2023-10-07",
-    "last_working_date": "2025-07-30",
-    "release_date": "2025-07-30",
-    "email_date": "2025-06-30",
-    
-    "payslip_month": 8, 
+    "company_name": "car",
+
+    "name": "Siddhi Laddha",
+    "employee_id": "CRG2812/04",
+    "designation": "HR Councellor",
+    "pan_no": "BPDPL5775C",
+    "bank_no": "004100100016914",
+
+    "initial_salary": 8800,
+    "payslip_ammount": 16800,
+    "increment_amount": 16800,
+
+    "email_id": "siddhiladdha2004@gmail.com",
+    "phone_number": "7499685501",
+
+    "offer_date": "2024-08-01",
+    "joining_date": "2024-08-07",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-06-21",
+    "release_date": "2025-06-21",
+    "email_date": "2025-05-21",
+
+    "payslip_month": 7,
     "x": "er"
-    }
+}

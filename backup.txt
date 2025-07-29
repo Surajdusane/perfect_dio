@@ -2371,3 +2371,201 @@ employee = {
     "payslip_month": 8, 
     "x": "er"
     }
+
+{
+    "company_name": "asc",
+    
+    "name": "Rajni Arvind Jadhav",
+    "employee_id": "ASC100027/12",
+    "designation": "technical recruiter",
+    "pan_no": "CAKPJ1383B",
+    "bank_no": "110110100013584",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 23900,
+    
+    "email_id": "rajnijadhav109@gmail.com",
+    "phone_number": "8095169064",
+    
+    "offer_date": "2022-10-03",
+    "joining_date": "2022-10-10",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
+    
+    "payslip_month": 8, 
+    "x": "er"
+    }
+
+
+    {
+    "company_name": "pre",
+
+    "name": "Kunal Das",
+    "employee_id": "PS100036/74",
+    "designation": "IT Recruiter",
+    "pan_no": "GDZPD4454F",
+    "bank_no": "50100578067161",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 29100,
+    "increment_amount": 23100,
+
+    "email_id": "kdas63268@gmail.com",
+    "phone_number": "8787417089",
+
+    "offer_date": "2022-09-01",
+    "joining_date": "2022-09-08",
+    "increment_letter_date": "2023-09-06",
+    "increment_effective_date": "2023-09-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-06-25",
+
+    "payslip_month": 8,
+    "x": "is"
+}
+
+{
+    "company_name": "pre",
+
+    "name": "Aarti Sharma",
+    "employee_id": "PS100036/75",
+    "designation": "IT Recruiter",
+    "pan_no": "DKMPA5692F",
+    "bank_no": "06810100021352",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 28900,
+    "increment_amount": 28900,
+
+    "email_id": "virtualaartisharma@gmail.com",
+    "phone_number": "9817841998",
+
+    "offer_date": "2022-10-01",
+    "joining_date": "2022-10-06",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-07-31",
+    "release_date": "2025-07-31",
+    "email_date": "2025-07-01",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+{
+    "company_name": "ga1",
+
+    "name": "Harsh kashyap",
+    "employee_id": "GRCM1027/09",
+    "designation": "Ar analyst",
+    "pan_no": "HSPPK2209R",
+    "bank_no": "3715875404",
+
+    "initial_salary": 22000,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+
+    "email_id": "harshkashyap@globala1rcm.com",
+    "phone_number": "9667564268",
+
+    "offer_date": "2023-07-01",
+    "joining_date": "2023-07-08",
+    "increment_letter_date": "2024-07-08",
+    "increment_effective_date": "2024-07-08",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
+
+    "payslip_month": 8,
+    "x": "is"
+}
+
+{
+    "company_name": "asc",
+
+    "name": "Velpula Navya",
+    "employee_id": "ASC100027/13",
+    "designation": "Domestic IT Recruiter",
+    "pan_no": "CNWPN3809H",
+    "bank_no": "62318826403",
+
+    "initial_salary": 22000,
+    "payslip_ammount": 28500,
+    "increment_amount": 28500,
+
+    "email_id": "navyavelpula05@gmail.com",
+    "phone_number": "9133145188",
+
+    "offer_date": "2023-06-01",
+    "joining_date": "2023-06-08",
+    "increment_letter_date": "2024-06-08",
+    "increment_effective_date": "2024-06-08",
+    "last_working_date": "2025-07-31",
+    "release_date": "2025-07-31",
+    "email_date": "2025-07-01",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+
+{
+    "company_name": "ga1",
+
+    "name": "Harsh kashyap",
+    "employee_id": "GRCM1027/09",
+    "designation": "Ar analyst",
+    "pan_no": "HSPPK2209R",
+    "bank_no": "3715875404",
+
+    "initial_salary": 22000,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+
+    "email_id": "harshkashyap@globala1rcm.com",
+    "phone_number": "9667564268",
+
+    "offer_date": "2024-03-25",
+    "joining_date": "2024-04-01",
+    "increment_letter_date": "2025-04-08",
+    "increment_effective_date": "2025-04-08",
+    "last_working_date": "2025-06-30",
+    "release_date": "2025-06-30",
+    "email_date": "2025-05-31",
+
+    "payslip_month": 8,
+    "x": "is"
+}
+
+{
+    "company_name": "asc",
+
+    "name": "Rajni Arvind Jadhav",
+    "employee_id": "ASC100027/14",
+    "designation": "technical recruiter",
+    "pan_no": "CAKPJ1383B",
+    "bank_no": "110110100013584",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 23900,
+
+    "email_id": "rajnijadhav109@gmail.com",
+    "phone_number": "8095169064",
+
+    "offer_date": "2022-10-01",
+    "joining_date": "2022-10-08",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
+
+    "payslip_month": 8,
+    "x": "er"
+}
