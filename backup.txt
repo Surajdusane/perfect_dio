@@ -2569,3 +2569,199 @@ employee = {
     "payslip_month": 8,
     "x": "er"
 }
+
+{
+    "company_name": "car",
+
+    "name": "Siddhi Laddha",
+    "employee_id": "CRG2812/04",
+    "designation": "HR Councellor",
+    "pan_no": "BPDPL5775C",
+    "bank_no": "004100100016914",
+
+    "initial_salary": 8800,
+    "payslip_ammount": 16800,
+    "increment_amount": 16800,
+
+    "email_id": "siddhiladdha2004@gmail.com",
+    "phone_number": "7499685501",
+
+    "offer_date": "2024-08-01",
+    "joining_date": "2024-08-07",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-06-21",
+    "release_date": "2025-06-21",
+    "email_date": "2025-05-21",
+
+    "payslip_month": 7,
+    "x": "er"
+}
+
+{
+    "company_name": "kas",
+
+    "name": "Swathi N",
+    "employee_id": "KA100036/63",
+    "designation": "Technical recruiter",
+    "pan_no": "CVPPN7668P",
+    "bank_no": "1449368904",
+
+    "initial_salary": 22000,
+    "payslip_ammount": 28500,
+    "increment_amount": 28500,
+
+    "email_id": "swathisaa1@gmail.com",
+    "phone_number": "9606902270",
+
+    "offer_date": "2023-06-01",
+    "joining_date": "2023-06-08",
+    "increment_letter_date": "2024-06-06",
+    "increment_effective_date": "2024-06-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-06-25",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+{
+    "company_name": "pre",
+
+    "name": "Prachi",
+    "employee_id": "PS100036/76",
+    "designation": "IT Recruiter",
+    "pan_no": "GSMPP1196N",
+    "bank_no": "76941901009913",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
+
+    "email_id": "Prachitewatia0109@gmail.com",
+    "phone_number": "8307623253",
+
+    "offer_date": "2023-02-17",
+    "joining_date": "2023-02-24",
+    "increment_letter_date": "2025-02-07",
+    "increment_effective_date": "2025-02-07",
+    "last_working_date": "2025-08-05",
+    "release_date": "2025-08-05",
+    "email_date": "2025-07-05",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+{
+    "company_name": "ga1",
+
+    "name": "M.Akhil",
+    "employee_id": "GRCM1027/10",
+    "designation": "Ar caller",
+    "pan_no": "DWWPA5482D",
+    "bank_no": "1626108005532",
+
+    "initial_salary": 22800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
+
+    "email_id": "goudakhil473@gmail.com",
+    "phone_number": "7993537895",
+
+    "offer_date": "2024-01-22",
+    "joining_date": "2024-02-01",
+    "increment_letter_date": "2025-02-07",
+    "increment_effective_date": "2025-02-07",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
+
+    "payslip_month": 8,
+    "x": "is"
+}
+
+{
+    "company_name": "asc",
+
+    "name": "Rajni Arvind Jadhav",
+    "employee_id": "ASC100027/14",
+    "designation": "technical recruiter",
+    "pan_no": "CAKPJ1383B",
+    "bank_no": "110110100013584",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 29900,
+    "increment_amount": 23900,
+
+    "email_id": "rajnijadhav109@gmail.com",
+    "phone_number": "8095169064",
+
+    "offer_date": "2022-10-01",
+    "joining_date": "2022-10-08",
+    "increment_letter_date": "2023-10-07",
+    "increment_effective_date": "2023-10-07",
+    "last_working_date": "2025-07-30",
+    "release_date": "2025-07-30",
+    "email_date": "2025-06-30",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+{
+    "company_name": "ga1",
+
+    "name": "M.Akhil",
+    "employee_id": "GRCM1027/10",
+    "designation": "Ar caller",
+    "pan_no": "DWWPA5482D",
+    "bank_no": "1626108005532",
+
+    "initial_salary": 22800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
+
+    "email_id": "goudakhil473@gmail.com",
+    "phone_number": "7993537895",
+
+    "offer_date": "2024-01-22",
+    "joining_date": "2024-02-01",
+    "increment_letter_date": "2025-02-07",
+    "increment_effective_date": "2025-02-07",
+    "last_working_date": "2025-05-30",
+    "release_date": "2025-05-30",
+    "email_date": "2025-05-14",
+
+    "payslip_month": 7,
+    "x": "is"
+}
+
+{
+    "company_name": "kas",
+
+    "name": "DIVYA SASI",
+    "employee_id": "KA100036/64",
+    "designation": "Technical recruiter",
+    "pan_no": "MYUPS8067B",
+    "bank_no": "032800100569541",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 28500,
+    "increment_amount": 23500,
+
+    "email_id": "divyasasi790@gmail.com",
+    "phone_number": "9340071686",
+
+    "offer_date": "2023-02-02",
+    "joining_date": "2023-02-09",
+    "increment_letter_date": "2024-02-07",
+    "increment_effective_date": "2024-02-07",
+    "last_working_date": "2025-08-16",
+    "release_date": "2025-08-16",
+    "email_date": "2025-07-31",
+
+    "payslip_month": 9,
+    "x": "er"
+}

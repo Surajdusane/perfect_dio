@@ -27,15 +27,15 @@ def main():
     )
 
     # Generate Salary Certificate
-    # print("\n=== Generating Salary Certificate===")
-    # generate_salary_certificatee(
-    #     company_name=employee["company_name"],
-    #     letter_date=employee["last_working_date"],
-    #     name=employee["name"],
-    #     designation=employee["designation"],
-    #     joining_date=employee["joining_date"],
-    #     current_ctc=employee["payslip_ammount"] * 12
-    # )
+    print("\n=== Generating Salary Certificate===")
+    generate_salary_certificatee(
+        company_name=employee["company_name"],
+        letter_date=employee["last_working_date"],
+        name=employee["name"],
+        designation=employee["designation"],
+        joining_date=employee["joining_date"],
+        current_ctc=employee["payslip_ammount"] * 12
+    )
 
     # Generate email credentials letter
     print("\n=== Generating Email Credentials Letter ===")

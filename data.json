@@ -1,27 +1,27 @@
 {
-    "company_name": "car",
+    "company_name": "kas",
 
-    "name": "Siddhi Laddha",
-    "employee_id": "CRG2812/04",
-    "designation": "HR Councellor",
-    "pan_no": "BPDPL5775C",
-    "bank_no": "004100100016914",
+    "name": "Swathi N",
+    "employee_id": "KA100036/63",
+    "designation": "Technical recruiter",
+    "pan_no": "CVPPN7668P",
+    "bank_no": "1449368904",
 
-    "initial_salary": 8800,
-    "payslip_ammount": 16800,
-    "increment_amount": 16800,
+    "initial_salary": 22000,
+    "payslip_ammount": 28500,
+    "increment_amount": 28500,
 
-    "email_id": "siddhiladdha2004@gmail.com",
-    "phone_number": "7499685501",
+    "email_id": "swathisaa1@gmail.com",
+    "phone_number": "9606902270",
 
-    "offer_date": "2024-08-01",
-    "joining_date": "2024-08-07",
-    "increment_letter_date": "2025-01-06",
-    "increment_effective_date": "2025-01-06",
-    "last_working_date": "2025-06-21",
-    "release_date": "2025-06-21",
-    "email_date": "2025-05-21",
+    "offer_date": "2023-06-01",
+    "joining_date": "2023-06-08",
+    "increment_letter_date": "2024-06-06",
+    "increment_effective_date": "2024-06-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-06-25",
 
-    "payslip_month": 7,
+    "payslip_month": 9,
     "x": "er"
 }
