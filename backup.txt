@@ -2765,3 +2765,254 @@ employee = {
     "payslip_month": 9,
     "x": "er"
 }
+
+{
+    "company_name": "kas",
+
+    "name": "Swathi N",
+    "employee_id": "KA100036/63",
+    "designation": "Technical recruiter",
+    "pan_no": "CVPPN7668P",
+    "bank_no": "1449368904",
+
+    "initial_salary": 22000,
+    "payslip_ammount": 28500,
+    "increment_amount": 28500,
+
+    "email_id": "swathisaa1@gmail.com",
+    "phone_number": "9606902270",
+
+    "offer_date": "2023-06-01",
+    "joining_date": "2023-06-08",
+    "increment_letter_date": "2024-06-06",
+    "increment_effective_date": "2024-06-06",
+    "last_working_date": "2025-07-25",
+    "release_date": "2025-07-25",
+    "email_date": "2025-06-25",
+
+    "payslip_month": 9,
+    "x": "er"
+}
+
+{
+    "company_name": "rcm",
+
+    "name": "Eshita Bisht",
+    "employee_id": "PRS100027/18",
+    "designation": "CHARGE POSTING",
+    "pan_no": "DWJPB4448F",
+    "bank_no": "682110110011857",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 23800,
+    "increment_amount": 23800,
+
+    "email_id": "eshita.09.bisht@gmail.com",
+    "phone_number": "9026812213",
+
+    "offer_date": "2022-12-26",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2024-01-06",
+    "increment_effective_date": "2024-01-06",
+    "last_working_date": "2025-02-25",
+    "release_date": "2025-02-25",
+    "email_date": "2025-01-25",
+
+    "payslip_month": 3,
+    "x": "er"
+}
+
+{
+    "company_name": "rcm",
+
+    "name": "Sreejita Chatterjee",
+    "employee_id": "PRS100027/27",
+    "designation": "AR associate",
+    "pan_no": "",
+    "bank_no": "",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 27500,
+    "increment_amount": 27500,
+
+    "email_id": "sreejitac85@gmail.com",
+    "phone_number": "7003901731",
+
+    "offer_date": "2023-11-24",
+    "joining_date": "2023-12-02",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-06-05",
+    "release_date": "2025-06-05",
+    "email_date": "2025-05-05",
+
+    "payslip_month": 7,
+    "x": "er"
+}
+
+{
+    "company_name": "rcm",
+
+    "name": "Thummala Bhargavidevi",
+    "employee_id": "PRS100027/28",
+    "designation": "AR associate",
+    "pan_no": "AJDPT0811C",
+    "bank_no": "50100465629080",
+
+    "initial_salary": 21000,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+
+    "email_id": "Bhargavi8888@gmail.com",
+    "phone_number": "9390706147",
+
+    "offer_date": "2023-12-01",
+    "joining_date": "2023-12-05",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-07-26",
+    "release_date": "2025-07-26",
+    "email_date": "2025-06-25",
+
+    "payslip_month": 9,
+    "x": "er"
+}
+
+{
+    "company_name": "pre",
+    
+    "name": "Tanya Prasar",
+    "employee_id": "PS100036/77",
+    "designation": "IT RECRUITER",
+    "pan_no": "DTIPP3526G",
+    "bank_no": "420201500778",
+    
+    "initial_salary": 22000,
+    "payslip_ammount": 27000,
+    "increment_amount": 27000,
+    
+    "email_id": "tanyaprasar2227@gmail.com",
+    "phone_number": "9693599176",
+    
+    "offer_date": "2024-04-23",
+    "joining_date": "2024-05-02",
+    "increment_letter_date": "2025-05-06",
+    "increment_effective_date": "2025-05-06",
+    "last_working_date": "2025-08-25",
+    "release_date": "2025-08-25",
+    "email_date": "2025-07-25",
+    
+    "payslip_month": 9, 
+    "x": "is"
+    }
+{
+    "company_name": "pre",
+    
+    "name": "Laveesha",
+    "employee_id": "PS100036/78",
+    "designation": "IT RECRUITER",
+    "pan_no": "BWXPL1292F",
+    "bank_no": "65244736936",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 22800,
+    "increment_amount": 27800,
+    
+    "email_id": "tanejalaveesha2@gmail.com",
+    "phone_number": "8700159624",
+    
+    "offer_date": "2024-05-01",
+    "joining_date": "2024-05-06",
+    "increment_letter_date": "2025-05-06",
+    "increment_effective_date": "2025-05-06",
+    "last_working_date": "2025-09-01",
+    "release_date": "2025-09-01",
+    "email_date": "2025-08-01",
+    
+    "payslip_month": 9, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+
+    "name": "Aarti Sharma",
+    "employee_id": "PS100036/75",
+    "designation": "IT Recruiter",
+    "pan_no": "DKMPA5692F",
+    "bank_no": "06810100021352",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 28900,
+    "increment_amount": 28900,
+
+    "email_id": "virtualaartisharma@gmail.com",
+    "phone_number": "9817841998",
+
+    "offer_date": "2022-10-01",
+    "joining_date": "2022-10-06",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-08-31",
+    "release_date": "2025-08-31",
+    "email_date": "2025-08-01",
+
+    "payslip_month": 8,
+    "x": "er"
+}
+
+{
+    "company_name": "kasnoi",
+
+    "name": "Samiksha soni",
+    "employee_id": "KA100036/65",
+    "designation": "IT Recruiter",
+    "pan_no": "MDAPS4860D",
+    "bank_no": "916010026050859",
+
+    "initial_salary": 19800,
+    "payslip_ammount": 29500,
+    "increment_amount": 29500,
+
+    "email_id": "samiksha12soni@gmail.com",
+    "phone_number": "6386820542",
+
+    "offer_date": "2023-01-02",
+    "joining_date": "2023-01-09",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-09-15",
+    "release_date": "2025-09-15",
+    "email_date": "2025-08-14",
+
+    "payslip_month": 10,
+    "x": "er"
+}
+
+{
+    "company_name": "ga1",
+
+    "name": "vasudev malsani",
+    "employee_id": "GRCM1027/11",
+    "designation": "AR ASSOCIATE",
+    "pan_no": "FYAPM9778N",
+    "bank_no": "50100337402411",
+
+    "initial_salary": 23100,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+
+    "email_id": "vasudevmalsani@globala1rcm.com",
+    "phone_number": "8459702102",
+
+    "offer_date": "2024-03-01",
+    "joining_date": "2024-03-08",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-08-28",
+    "release_date": "2025-08-28",
+    "email_date": "2025-07-28",
+
+    "payslip_month": 9,
+    "x": "is"
+}
