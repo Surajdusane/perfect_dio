@@ -1,28 +1,27 @@
-
 {
     "company_name": "kasnoi",
-
-    "name": "Samiksha soni",
-    "employee_id": "KA100036/65",
-    "designation": "IT Recruiter",
-    "pan_no": "MDAPS4860D",
-    "bank_no": "916010026050859",
-
+    
+    "name": "Ayushi Rajput",
+    "employee_id": "KA100036/67",
+    "designation": "IT recruiter",
+    "pan_no": "EAXPP3378F",
+    "bank_no": "9145779499",
+    
     "initial_salary": 19800,
-    "payslip_ammount": 25075,
+    "payslip_ammount": 29500,
     "increment_amount": 29500,
-
-    "email_id": "samiksha12soni@gmail.com",
-    "phone_number": "6386820542",
-
-    "offer_date": "2023-01-02",
-    "joining_date": "2023-01-09",
-    "increment_letter_date": "2025-06-06",
-    "increment_effective_date": "2025-06-06",
-    "last_working_date": "2025-09-15",
-    "release_date": "2025-09-15",
-    "email_date": "2025-08-14",
-
-    "payslip_month": 10,
+    
+    "email_id": "pamwar.ayushi.d@gmail.com",
+    "phone_number": "9039975499",
+    
+    "offer_date": "2022-12-06",
+    "joining_date": "2022-12-13",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-09-26",
+    "release_date": "2025-09-26",
+    "email_date": "2025-08-26",
+    
+    "payslip_month": 10, 
     "x": "er"
-}
+    }
