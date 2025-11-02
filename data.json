@@ -1,27 +1,27 @@
 {
-    "company_name": "kasnoi",
+    "company_name": "pre",
     
-    "name": "Ayushi Rajput",
-    "employee_id": "KA100036/67",
-    "designation": "IT recruiter",
-    "pan_no": "EAXPP3378F",
-    "bank_no": "9145779499",
+    "name": "Laveesha",
+    "employee_id": "PS100036/78",
+    "designation": "IT RECRUITER",
+    "pan_no": "BWXPL1292F",
+    "bank_no": "65244736936",
     
-    "initial_salary": 19800,
-    "payslip_ammount": 29500,
-    "increment_amount": 29500,
+    "initial_salary": 23800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
     
-    "email_id": "pamwar.ayushi.d@gmail.com",
-    "phone_number": "9039975499",
+    "email_id": "tanejalaveesha2@gmail.com",
+    "phone_number": "8700159624",
     
-    "offer_date": "2022-12-06",
-    "joining_date": "2022-12-13",
-    "increment_letter_date": "2024-12-06",
-    "increment_effective_date": "2024-12-06",
-    "last_working_date": "2025-09-26",
-    "release_date": "2025-09-26",
-    "email_date": "2025-08-26",
+    "offer_date": "2024-05-01",
+    "joining_date": "2024-05-06",
+    "increment_letter_date": "2025-05-06",
+    "increment_effective_date": "2025-05-06",
+    "last_working_date": "2025-10-10",
+    "release_date": "2025-10-10",
+    "email_date": "2025-09-11",
     
-    "payslip_month": 10, 
+    "payslip_month": 11, 
     "x": "er"
     }

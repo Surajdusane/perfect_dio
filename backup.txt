@@ -3184,3 +3184,283 @@ employee = {
     "payslip_month": 7, 
     "x": "er"
     }
+
+{
+    "company_name": "kasnoi",
+    
+    "name": "Ayushi Rajput",
+    "employee_id": "KA100036/67",
+    "designation": "IT recruiter",
+    "pan_no": "EAXPP3378F",
+    "bank_no": "9145779499",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29500,
+    "increment_amount": 29500,
+    
+    "email_id": "pamwar.ayushi.d@gmail.com",
+    "phone_number": "9039975499",
+    
+    "offer_date": "2022-12-06",
+    "joining_date": "2022-12-13",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-09-26",
+    "release_date": "2025-09-26",
+    "email_date": "2025-08-26",
+    
+    "payslip_month": 10, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Praveen Kumar M",
+    "employee_id": "PS100036/80",
+    "designation": "Admin Executive",
+    "pan_no": "DBSPM0545J",
+    "bank_no": "20335569262",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "praveensundaram98@gmail.com",
+    "phone_number": "9952956573",
+    
+    "offer_date": "2023-08-01",
+    "joining_date": "2023-08-04",
+    "increment_letter_date": "2024-08-06",
+    "increment_effective_date": "2024-08-06",
+    "last_working_date": "2025-01-31",
+    "release_date": "2025-01-31",
+    "email_date": "2025-01-01",
+    
+    "payslip_month": 3, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Sravani Ippili",
+    "employee_id": "KA100036/68",
+    "designation": "IT Recruiter",
+    "pan_no": "ADRPI3405M",
+    "bank_no": "917010070488238",
+    
+    "initial_salary": 31700,
+    "payslip_ammount": 31700,
+    "increment_amount": 31700,
+    
+    "email_id": "ippilisravani17@gmail.com",
+    "phone_number": "7675954617",
+    
+    "offer_date": "2024-12-02",
+    "joining_date": "2024-12-09",
+    "increment_letter_date": "2024-08-06",
+    "increment_effective_date": "2024-08-06",
+    "last_working_date": "2025-10-10",
+    "release_date": "2025-10-10",
+    "email_date": "2025-09-11",
+    
+    "payslip_month": 10, 
+    "x": "er"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Keerthivasan",
+    "employee_id": "PS100036/81",
+    "designation": "IT Recruiter",
+    "pan_no": "KPSPK2786A",
+    "bank_no": "61762210010773",
+    
+    "initial_salary": 23000,
+    "payslip_ammount": 23000,
+    "increment_amount": 26500,
+    
+    "email_id": "vasankeerthi245@gmail.com",
+    "phone_number": "9952340670",
+    
+    "offer_date": "2024-03-25",
+    "joining_date": "2024-04-01",
+    "increment_letter_date": "2025-04-07",
+    "increment_effective_date": "2025-04-07",
+    "last_working_date": "2025-10-03",
+    "release_date": "2025-10-03",
+    "email_date": "2025-09-04",
+    
+    "payslip_month": 10, 
+    "x": "is"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Prem Pardhe",
+    "employee_id": "KA100036/69",
+    "designation": "IT Recruiter",
+    "pan_no": "FTXPP3239P",
+    "bank_no": "35565343718",
+    
+    "initial_salary": 23000,
+    "payslip_ammount": 29232,
+    "increment_amount": 29232,
+    
+    "email_id": "prem.pardhe2801@gmail.com",
+    "phone_number": "9309147170",
+    
+    "offer_date": "2024-01-16",
+    "joining_date": "2024-01-23",
+    "increment_letter_date": "2025-01-07",
+    "increment_effective_date": "2025-01-07",
+    "last_working_date": "2025-10-10",
+    "release_date": "2025-10-10",
+    "email_date": "2025-09-10",
+    
+    "payslip_month": 10, 
+    "x": "is"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Janan Koh Ompap",
+    "employee_id": "KA100036/70",
+    "designation": "IT Recruiter",
+    "pan_no": "ADMPO1651L",
+    "bank_no": "921010021927356",
+    
+    "initial_salary": 28300,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "janankoh2001@gmail.com",
+    "phone_number": "9035527239",
+    
+    "offer_date": "2024-08-14",
+    "joining_date": "2024-08-21",
+    "increment_letter_date": "2025-10-06",
+    "increment_effective_date": "2025-10-06",
+    "last_working_date": "2025-10-15",
+    "release_date": "2025-10-15",
+    "email_date": "2025-09-15",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Praveen Kumar M",
+    "employee_id": "PS100036/80",
+    "designation": "Admin Executive",
+    "pan_no": "DBSPM0545J",
+    "bank_no": "20335569262",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "praveensundaram98@gmail.com",
+    "phone_number": "9952956573",
+    
+    "offer_date": "2023-08-01",
+    "joining_date": "2023-08-04",
+    "increment_letter_date": "2024-08-06",
+    "increment_effective_date": "2024-08-06",
+    "last_working_date": "2025-01-31",
+    "release_date": "2025-01-31",
+    "email_date": "2025-01-01",
+    
+    "payslip_month": 3, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Prem Pardhe",
+    "employee_id": "KA100036/69",
+    "designation": "IT Recruiter",
+    "pan_no": "FTXPP3239P",
+    "bank_no": "35565343718",
+    
+    "initial_salary": 23000,
+    "payslip_ammount": 29232,
+    "increment_amount": 29232,
+    
+    "email_id": "prem.pardhe2801@gmail.com",
+    "phone_number": "9309147170",
+    
+    "offer_date": "2024-01-16",
+    "joining_date": "2024-01-23",
+    "increment_letter_date": "2025-01-07",
+    "increment_effective_date": "2025-01-07",
+    "last_working_date": "2025-10-10",
+    "release_date": "2025-10-10",
+    "email_date": "2025-09-10",
+    
+    "payslip_month": 10, 
+    "x": "is"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Janan Koh Ompap",
+    "employee_id": "KA100036/70",
+    "designation": "IT Recruiter",
+    "pan_no": "ADMPO1651L",
+    "bank_no": "921010021927356",
+    
+    "initial_salary": 28300,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "janankoh2001@gmail.com",
+    "phone_number": "9035527239",
+    
+    "offer_date": "2024-09-14",
+    "joining_date": "2024-09-21",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2025-10-24",
+    "release_date": "2025-10-24",
+    "email_date": "2025-09-23",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Laveesha",
+    "employee_id": "PS100036/78",
+    "designation": "IT RECRUITER",
+    "pan_no": "BWXPL1292F",
+    "bank_no": "65244736936",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
+    
+    "email_id": "tanejalaveesha2@gmail.com",
+    "phone_number": "8700159624",
+    
+    "offer_date": "2024-05-01",
+    "joining_date": "2024-05-06",
+    "increment_letter_date": "2025-05-06",
+    "increment_effective_date": "2025-05-06",
+    "last_working_date": "2025-10-10",
+    "release_date": "2025-10-10",
+    "email_date": "2025-09-11",
+    
+    "payslip_month": 11, 
+    "x": "er"
+    }
