@@ -3464,3 +3464,367 @@ employee = {
     "payslip_month": 11, 
     "x": "er"
     }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Janan Koh Ompap",
+    "employee_id": "KA100036/70",
+    "designation": "IT Recruiter",
+    "pan_no": "ADMPO1651L",
+    "bank_no": "921010021927356",
+    
+    "initial_salary": 25000,
+    "payslip_ammount": 25000,
+    "increment_amount": 32800,
+    
+    "email_id": "janankoh2001@gmail.com",
+    "phone_number": "9035527239",
+    
+    "offer_date": "2024-09-14",
+    "joining_date": "2024-09-21",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2025-10-31",
+    "release_date": "2025-10-31",
+    "email_date": "2025-09-30",
+    
+    "payslip_month": 11, 
+    "x": "her"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Arsalan Ali Siddiqui",
+    "employee_id": "PS100036/62",
+    "designation": "US It/Non It Recruiter",
+    "pan_no": "NIZPS6512R",
+    "bank_no": "77770130849405",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 39800,
+    "increment_amount": 39800,
+    
+    "email_id": "arsalan23ali@gmail.com",
+    "phone_number": "9319787472",
+    
+    "offer_date": "2022-12-01",
+    "joining_date": "2022-12-05",
+    "increment_letter_date": "2024-12-07",
+    "increment_effective_date": "2024-12-07",
+    "last_working_date": "2025-06-20",
+    "release_date": "2025-06-20",
+    "email_date": "2025-05-20",
+    
+    "payslip_month": 7, 
+    "x": "is"
+}
+
+    {
+    "company_name": "kas",
+    
+    "name": "Sayali Dhage",
+    "employee_id": "KA100036/71",
+    "designation": "associate Recruiter",
+    "pan_no": "CPNPD6671N",
+    "bank_no": "597202010010622",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "sayalidhage111@gmail.com",
+    "phone_number": "9172036446",
+    
+    "offer_date": "2023-03-08",
+    "joining_date": "2023-03-15",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-11-03",
+    "release_date": "2025-11-03",
+    "email_date": "2025-10-11",
+    
+    "payslip_month": 11, 
+    "x": "er"
+    }
+
+        {
+    "company_name": "asc",
+    
+    "name": "krishna Hyndav Parasa",
+    "employee_id": "ASC100027/15",
+    "designation": "Associate Technical support Engineer",
+    "pan_no": "BFZPH3571Q",
+    "bank_no": "",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "hyndav1807@gmail.com",
+    "phone_number": "7095226897",
+    
+    "offer_date": "2025-01-01",
+    "joining_date": "2025-01-01",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-10-30",
+    "release_date": "2025-10-30",
+    "email_date": "2025-09-30",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Srinivasarao Narne",
+    "employee_id": "KA100036/72",
+    "designation": "Technical support Engineer",
+    "pan_no": "",
+    "bank_no": "",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "srinivasaraonarne27@gmail.com",
+    "phone_number": "8688646235",
+    
+    "offer_date": "2024-01-01",
+    "joining_date": "2024-01-01",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-10-29",
+    "release_date": "2025-10-29",
+    "email_date": "2025-09-29",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Sravani Ippili",
+    "employee_id": "KA100036/68",
+    "designation": "IT Recruiter",
+    "pan_no": "ADRPI3405M",
+    "bank_no": "917010070488238",
+    
+    "initial_salary": 31700,
+    "payslip_ammount": 31700,
+    "increment_amount": 31700,
+    
+    "email_id": "ippilisravani17@gmail.com",
+    "phone_number": "7675954617",
+    
+    "offer_date": "2024-12-02",
+    "joining_date": "2024-12-09",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2025-11-07",
+    "release_date": "2025-11-07",
+    "email_date": "2025-10-07",
+    
+    "payslip_month": 11, 
+    "x": "er"
+}
+
+{
+    "company_name": "rcm",
+    
+    "name": "Neha Palkirti",
+    "employee_id": "PRS100027/21",
+    "designation": "sr pre auth analyst",
+    "pan_no": "CELPP9807P",
+    "bank_no": "560384831",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 45800,
+    "increment_amount": 22800,
+    
+    "email_id": "nehapalkirti@gmail.com",
+    "phone_number": "7304775972",
+    
+    "offer_date": "2020-06-03",
+    "joining_date": "2020-06-10",
+    "increment_letter_date": "2021-06-07",
+    "increment_effective_date": "2021-06-07",
+    "last_working_date": "2025-05-22",
+    "release_date": "2025-05-22",
+    "email_date": "2025-04-22",
+    
+    "payslip_month": 6, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Y N Layashree",
+    "employee_id": "KA100036/73",
+    "designation": "IT Recruiter",
+    "pan_no": "BMEPL2975C",
+    "bank_no": "41029428814",
+    
+    "initial_salary": 21930,
+    "payslip_ammount": 21930,
+    "increment_amount": 26600,
+    
+    "email_id": "layashreenaidu15@gmail.com",
+    "phone_number": "9972524969",
+    
+    "offer_date": "2024-09-14",
+    "joining_date": "2024-09-21",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2025-11-11",
+    "release_date": "2025-11-11",
+    "email_date": "2025-10-11",
+    
+    "payslip_month": 12, 
+    "x": "er"
+}
+
+{
+    "company_name": "asc",
+    
+    "name": "krishna Hyndav Parasa",
+    "employee_id": "ASC100027/15",
+    "designation": "Associate Technical support Engineer",
+    "pan_no": "BFZPH3571Q",
+    "bank_no": "",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "hyndav1807@gmail.com",
+    "phone_number": "7095226897",
+    
+    "offer_date": "2025-01-01",
+    "joining_date": "2025-01-01",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-10-30",
+    "release_date": "2025-10-30",
+    "email_date": "2025-09-30",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Sri Harini",
+    "employee_id": "PS100036/82",
+    "designation": "Domestic IT Recruiter",
+    "pan_no": "BYVPN5130J",
+    "bank_no": "919010026678953",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 29900,
+    "increment_amount": 24900,
+    
+    "email_id": "sriharininamasivayam@gmail.com",
+    "phone_number": "9486775006",
+    
+    "offer_date": "2023-05-10",
+    "joining_date": "2023-05-17",
+    "increment_letter_date": "2024-05-06",
+    "increment_effective_date": "2024-05-06",
+    "last_working_date": "2025-11-20",
+    "release_date": "2025-11-20",
+    "email_date": "2025-10-20",
+    
+    "payslip_month": 12, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Sayali Dhage",
+    "employee_id": "KA100036/71",
+    "designation": "associate Recruiter",
+    "pan_no": "CPNPD6671N",
+    "bank_no": "597202010010622",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "sayalidhage111@gmail.com",
+    "phone_number": "9172036446",
+    
+    "offer_date": "2023-03-08",
+    "joining_date": "2023-03-15",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-11-07",
+    "release_date": "2025-11-07",
+    "email_date": "2025-10-07",
+    
+    "payslip_month": 11, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Y N Layashree",
+    "employee_id": "KA100036/73",
+    "designation": "IT Recruiter",
+    "pan_no": "BMEPL2975C",
+    "bank_no": "41029428814",
+    
+    "initial_salary": 21930,
+    "payslip_ammount": 21930,
+    "increment_amount": 26600,
+    
+    "email_id": "layashreenaidu15@gmail.com",
+    "phone_number": "9972524969",
+    
+    "offer_date": "2024-10-14",
+    "joining_date": "2024-10-21",
+    "increment_letter_date": "2025-10-06",
+    "increment_effective_date": "2025-10-06",
+    "last_working_date": "2025-11-14",
+    "release_date": "2025-11-14",
+    "email_date": "2025-10-14",
+    
+    "payslip_month": 12, 
+    "x": "er"
+}
+
+{
+    "company_name": "kasnoi",
+    
+    "name": "Srinivasarao Narne",
+    "employee_id": "KA100036/72",
+    "designation": "Technical support Engineer",
+    "pan_no": "CUSPN7657J",
+    "bank_no": "110061403672",
+    
+    "initial_salary": 24000,
+    "payslip_ammount": 29000,
+    "increment_amount": 29000,
+    
+    "email_id": "srinivasaraonarne27@gmail.com",
+    "phone_number": "8688646235",
+    
+    "offer_date": "2023-12-21",
+    "joining_date": "2024-01-01",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-10-29",
+    "release_date": "2025-10-29",
+    "email_date": "2025-09-29",
+    
+    "payslip_month": 12, 
+    "x": "is"
+}

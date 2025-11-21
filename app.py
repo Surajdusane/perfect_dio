@@ -63,19 +63,7 @@ def main():
         salary=employee["payslip_ammount"]
     )
 
-    # Generate increment letter
-    print("\n=== Generating Increment Letter ===")
-    generate_increment_letter(
-        company_name=employee["company_name"],
-        letter_date=employee["increment_letter_date"],
-        name=employee["name"],
-        designation=employee["designation"],
-        employee_id=employee["employee_id"],
-        ctc=employee["increment_amount"]*12,
-        increment_date=employee["increment_effective_date"]
-    )
-
-    # Generate release letter
+        # Generate release letter
     print("\n=== Generating Release Letter ===")
     generate_release_letter(
         company_name=employee["company_name"],
@@ -99,6 +87,18 @@ def main():
         joining_date=employee["joining_date"],
         last_working_date=employee["last_working_date"],
         x=employee["x"]
+    )
+
+    # Generate increment letter
+    print("\n=== Generating Increment Letter ===")
+    generate_increment_letter(
+        company_name=employee["company_name"],
+        letter_date=employee["increment_letter_date"],
+        name=employee["name"],
+        designation=employee["designation"],
+        employee_id=employee["employee_id"],
+        ctc=employee["increment_amount"]*12,
+        increment_date=employee["increment_effective_date"]
     )
 
     # Convert all Word documents to PDF
