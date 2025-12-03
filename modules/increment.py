@@ -54,6 +54,6 @@ def generate_increment_letter(
         print(f"Success: Increment letter generated: {output_file}")
         
     except FileNotFoundError:
-        print(f"Error: Template 'increment_{company_name}_{increment_date.split()[-4]}.docx' not found in assets directory")
+        print(f"Error: Template 'increment_{company_name}.docx' not found in assets directory")
     except Exception as e:
         print(f"Error: {str(e)}")

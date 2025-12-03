@@ -3828,3 +3828,87 @@ employee = {
     "payslip_month": 12, 
     "x": "is"
 }
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "K S S Sravanthi",
+    "employee_id": "KA100036/74",
+    "designation": "Technical support Engineer",
+    "pan_no": "IRYPK0834F ",
+    "bank_no": "38796812051",
+    
+    "initial_salary": 24000,
+    "payslip_ammount": 30000,
+    "increment_amount": 30000,
+    
+    "email_id": "sravanthii.2002@ascloudsecure.com",
+    "phone_number": "9494327675",
+    
+    "offer_date": "2024-02-06",
+    "joining_date": "2024-02-13",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-10-29",
+    "release_date": "2025-10-29",
+    "email_date": "2025-09-29",
+    
+    "payslip_month": 12, 
+    "x": "er"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "shaik Thaimu Basha",
+    "employee_id": "KA100036/75",
+    "designation": "IT Recruiter",
+    "pan_no": "BUSPT1831P",
+    "bank_no": "43373444908",
+    
+    "initial_salary": 24000,
+    "payslip_ammount": 24000,
+    "increment_amount": 29800,
+    
+    "email_id": "thaimusk890@gmail.com",
+    "phone_number": "6304447931",
+    
+    "offer_date": "2024-09-07",
+    "joining_date": "2024-09-14",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2025-11-22",
+    "release_date": "2025-11-22",
+    "email_date": "2025-10-22",
+    
+    "payslip_month": 12, 
+    "x": "is"
+}
+
+{
+    "company_name": "kasnoitse",
+    
+    "name": "Divya chauhan",
+    "employee_id": "100045",
+    "designation": "Technical support associate",
+    "pan_no": "CBGPC1692H",
+    "bank_no": "50100742910038",
+    
+    "initial_salary": 23800,
+    "payslip_ammount": 28800,
+    "increment_amount": 28800,
+    
+    "email_id": "divyachauhannws@kasperanalytics.com",
+    "phone_number": "9149016594",
+    
+    "offer_date": "2024-02-05",
+    "joining_date": "2024-02-12",
+    "increment_letter_date": "2025-02-06",
+    "increment_effective_date": "2025-02-06",
+    "last_working_date": "2025-10-24",
+    "release_date": "2025-10-24",
+    "email_date": "2025-10-24",
+    
+    "payslip_month": 11, 
+    "x": "er"
+}

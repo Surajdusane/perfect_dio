@@ -1,27 +1,27 @@
 {
     "company_name": "ascnoi",
     
-    "name": "K S S Sravanthi",
-    "employee_id": "KA100036/74",
-    "designation": "Technical support Engineer",
-    "pan_no": "IRYPK0834F ",
-    "bank_no": "38796812051",
+    "name": "krishna Hyndav Parasa",
+    "employee_id": "ASC100027/15",
+    "designation": "ATSE",
+    "pan_no": "BFZPH3571Q",
+    "bank_no": "50100740261500",
     
-    "initial_salary": 24000,
+    "initial_salary": 30000,
     "payslip_ammount": 30000,
     "increment_amount": 30000,
     
-    "email_id": "sravanthii.2002@ascloudsecure.com",
-    "phone_number": "9494327675",
+    "email_id": "hyndav1807@gmail.com",
+    "phone_number": "7095226897",
     
-    "offer_date": "2024-02-06",
-    "joining_date": "2024-02-13",
-    "increment_letter_date": "2025-02-06",
-    "increment_effective_date": "2025-02-06",
-    "last_working_date": "2025-10-29",
-    "release_date": "2025-10-29",
-    "email_date": "2025-09-29",
+    "offer_date": "2024-12-24",
+    "joining_date": "2025-01-01",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-10-30",
+    "release_date": "2025-10-30",
+    "email_date": "2025-09-30",
     
     "payslip_month": 12, 
-    "x": "er"
-}
+    "x": "is"
+    }
