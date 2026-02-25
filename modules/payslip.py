@@ -65,7 +65,7 @@ def last6monthdata(month):
     return data
 
 
-def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, employee_id, designation, salary, year=2024):
+def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, employee_id, designation, salary, year=2026):
     try:
         template_path = file("payslip", company_name)
         doc = DocxTemplate(template_path)
@@ -88,11 +88,16 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
             
             # Calculate previous month
             previous_month = ((current_month - 1) % 12) or 12  # Convert 0 to 12 for December
+
+            if current_month > 6:
+                current_year = year - 1
+            else:
+                current_year = year
             
             context = {
                 'mon': month_details[current_month][0],  # Current month
                 'date': convert_date(date_of_joining),
-                'year': 2025,
+                'year': current_year,
                 'pep': month_details[previous_month][0],  # Previous month
                 'pd': month_details[previous_month][1],  # Days in previous month
                 'pan': pan_no,

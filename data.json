@@ -1,27 +1,27 @@
 {
-    "company_name": "ascnoi",
+    "company_name": "kasnoi",
     
-    "name": "krishna Hyndav Parasa",
-    "employee_id": "ASC100027/15",
-    "designation": "ATSE",
-    "pan_no": "BFZPH3571Q",
-    "bank_no": "50100740261500",
+    "name": "Virali Thakur",
+    "employee_id": "KA100036/80",
+    "designation": "Technical Support Engineer",
+    "pan_no": "BXVPT1702P",
+    "bank_no": "39709549232",
     
-    "initial_salary": 30000,
-    "payslip_ammount": 30000,
-    "increment_amount": 30000,
+    "initial_salary": 24800,
+    "payslip_ammount": 32300,
+    "increment_amount": 30500,
     
-    "email_id": "hyndav1807@gmail.com",
-    "phone_number": "7095226897",
+    "email_id": "thakurvirali728@gmail.com",
+    "phone_number": "8319629604",
     
-    "offer_date": "2024-12-24",
-    "joining_date": "2025-01-01",
-    "increment_letter_date": "2025-03-06",
-    "increment_effective_date": "2025-03-06",
-    "last_working_date": "2025-10-30",
-    "release_date": "2025-10-30",
-    "email_date": "2025-09-30",
+    "offer_date": "2024-07-24",
+    "joining_date": "2024-08-01",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2026-01-29",
+    "release_date": "2026-01-29",
+    "email_date": "2025-12-29",
     
-    "payslip_month": 12, 
-    "x": "is"
-    }
+    "payslip_month": 3, 
+    "x": "er"
+}

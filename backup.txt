@@ -3912,3 +3912,254 @@ employee = {
     "payslip_month": 11, 
     "x": "er"
 }
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "krishna Hyndav Parasa",
+    "employee_id": "ASC100027/15",
+    "designation": "ATSE",
+    "pan_no": "BFZPH3571Q",
+    "bank_no": "50100740261500",
+    
+    "initial_salary": 30000,
+    "payslip_ammount": 30000,
+    "increment_amount": 30000,
+    
+    "email_id": "hyndav1807@gmail.com",
+    "phone_number": "7095226897",
+    
+    "offer_date": "2024-12-24",
+    "joining_date": "2025-01-01",
+    "increment_letter_date": "2025-03-06",
+    "increment_effective_date": "2025-03-06",
+    "last_working_date": "2025-10-30",
+    "release_date": "2025-10-30",
+    "email_date": "2025-09-30",
+    
+    "payslip_month": 12, 
+    "x": "is"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "Rithika S",
+    "employee_id": "KA100036/77",
+    "designation": "Helpdesk Support Engineer",
+    "pan_no": "RDBPS1060R",
+    "bank_no": "10574101079177",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 20000,
+    "increment_amount": 26300,
+    
+    "email_id": "rithikasr03@gmail.com",
+    "phone_number": "9019288797",
+    
+    "offer_date": "2024-07-22",
+    "joining_date": "2024-08-01",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2025-09-30",
+    "release_date": "2025-09-30",
+    "email_date": "2025-08-30",
+    
+    "payslip_month": 11, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "rcm",
+    
+    "name": "Shubham Khare",
+    "employee_id": "PRS100027/29",
+    "designation": "AR Associate",
+    "pan_no": "EXJPK3796K",
+    "bank_no": "20345295720",
+    
+    "initial_salary": 22000,
+    "payslip_ammount": 22000,
+    "increment_amount": 26000,
+    
+    "email_id": "khareshubham624@gmail.com",
+    "phone_number": "9170907222",
+    
+    "offer_date": "2024-06-04",
+    "joining_date": "2024-06-11",
+    "increment_letter_date": "2025-06-06",
+    "increment_effective_date": "2025-06-06",
+    "last_working_date": "2025-10-31",
+    "release_date": "2025-10-31",
+    "email_date": "2025-10-01",
+    
+    "payslip_month": 12, 
+    "x": "is"
+    }
+{
+    "company_name": "pre",
+    
+    "name": "Meenakshi Barthwal",
+    "employee_id": "PS100036/83",
+    "designation": "IT recruiter",
+    "pan_no": "DCXPB8773B",
+    "bank_no": "9314181948",
+    
+    "initial_salary": 26800,
+    "payslip_ammount": 26800,
+    "increment_amount": 28300,
+    
+    "email_id": "meenakshibarthwal14@gmail.com",
+    "phone_number": "8445256377",
+    
+    "offer_date": "2024-08-10",
+    "joining_date": "2024-08-24",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2025-12-31",
+    "release_date": "2025-12-31",
+    "email_date": "2025-12-01",
+    
+    "payslip_month": 1, 
+    "x": "er"
+    }
+
+{
+    "company_name": "rcm",
+    
+    "name": "Sreejita Chatterjee",
+    "employee_id": "PRS100027/30",
+    "designation": "AR associate",
+    "pan_no": "BQCPC1380C",
+    "bank_no": "40000670862",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "sreejitac85@gmail.com",
+    "phone_number": "7003901731",
+    
+    "offer_date": "2023-11-22",
+    "joining_date": "2023-12-02",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2025-06-05",
+    "release_date": "2025-06-05",
+    "email_date": "2025-05-06",
+    
+    "payslip_month": 7, 
+    "x": "er"
+    }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Md Sahil Raza",
+    "employee_id": "KA100036/78",
+    "designation": "IT recruiter",
+    "pan_no": "ETZPR1871L",
+    "bank_no": "40012457738",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 22800,
+    "increment_amount": 27500,
+    
+    "email_id": "02mdsahil1461@gmail.com",
+    "phone_number": "9693338076",
+    
+    "offer_date": "2024-07-02",
+    "joining_date": "2024-07-09",
+    "increment_letter_date": "2025-07-07",
+    "increment_effective_date": "2025-07-07",
+    "last_working_date": "2025-11-30",
+    "release_date": "2025-11-30",
+    "email_date": "2025-11-01",
+    
+    "payslip_month": 1, 
+    "x": "is"
+    }
+
+     {
+    "company_name": "kasnoitse",
+    
+    "name": "Md Sahil Raza",
+    "employee_id": "KA100036/78",
+    "designation": "Technical Support Associate",
+    "pan_no": "ETZPR1871L",
+    "bank_no": "40012457738",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 22800,
+    "increment_amount": 27500,
+    
+    "email_id": "02mdsahil1461@gmail.com",
+    "phone_number": "9693338076",
+    
+    "offer_date": "2024-07-02",
+    "joining_date": "2024-07-09",
+    "increment_letter_date": "2025-07-07",
+    "increment_effective_date": "2025-07-07",
+    "last_working_date": "2025-11-30",
+    "release_date": "2025-11-30",
+    "email_date": "2025-11-01",
+    
+    "payslip_month": 1, 
+    "x": "is"
+    }
+
+{
+    "company_name": "pre",
+    
+    "name": "Meenakshi Barthwal",
+    "employee_id": "PS100036/83",
+    "designation": "IT recruiter",
+    "pan_no": "DCXPB8773B",
+    "bank_no": "9314181948",
+    
+    "initial_salary": 26800,
+    "payslip_ammount": 28300,
+    "increment_amount": 28300,
+    
+    "email_id": "meenakshibarthwal14@gmail.com",
+    "phone_number": "8445256377",
+    
+    "offer_date": "2024-08-10",
+    "joining_date": "2024-08-24",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2025-12-31",
+    "release_date": "2025-12-31",
+    "email_date": "2025-12-01",
+    
+    "payslip_month": 2, 
+    "x": "er"
+    }
+
+{
+    "company_name": "kas",
+    
+    "name": "S. Priyanka",
+    "employee_id": "KA100036/79",
+    "designation": "IT recruiter",
+    "pan_no": "GJNPS9605D",
+    "bank_no": "33517191709",
+    
+    "initial_salary": 20000,
+    "payslip_ammount": 31000,
+    "increment_amount": 24000,
+    
+    "email_id": "sailapriya2@gmail.com",
+    "phone_number": "9901222362",
+    
+    "offer_date": "2023-09-11",
+    "joining_date": "2023-09-18",
+    "increment_letter_date": "2024-09-06",
+    "increment_effective_date": "2024-09-06",
+    "last_working_date": "2026-02-02",
+    "release_date": "2026-02-02",
+    "email_date": "2026-01-02",
+    
+    "payslip_month": 3, 
+    "x": "er"
+}
