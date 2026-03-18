@@ -1,27 +1,27 @@
 {
-    "company_name": "kasnoi",
+    "company_name": "pre",
     
-    "name": "Virali Thakur",
-    "employee_id": "KA100036/80",
-    "designation": "Technical Support Engineer",
-    "pan_no": "BXVPT1702P",
-    "bank_no": "39709549232",
+    "name": "Deepak Singh Negi",
+    "employee_id": "PS100036/84",
+    "designation": "IT Recruiter",
+    "pan_no": "CBNPN9509D",
+    "bank_no": "36492553060",
     
-    "initial_salary": 26700,
-    "payslip_ammount": 32300,
-    "increment_amount": 32300,
+    "initial_salary": 19800,
+    "payslip_ammount": 29300,
+    "increment_amount": 25300,
     
-    "email_id": "thakurvirali728@gmail.com",
-    "phone_number": "8319629604",
+    "email_id": "diipak.negi@gmail.com",
+    "phone_number": "9520264077",
     
-    "offer_date": "2024-07-24",
-    "joining_date": "2024-08-01",
-    "increment_letter_date": "2025-08-06",
-    "increment_effective_date": "2025-08-06",
-    "last_working_date": "2026-01-29",
-    "release_date": "2026-01-29",
-    "email_date": "2025-12-29",
+    "offer_date": "2022-12-26",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2024-01-06",
+    "increment_effective_date": "2024-01-06",
+    "last_working_date": "2025-11-29",
+    "release_date": "2025-11-29",
+    "email_date": "2025-10-29",
     
-    "payslip_month": 3, 
-    "x": "er"
+    "payslip_month": 1, 
+    "x": "is"
 }
