@@ -1,27 +1,27 @@
 {
-    "company_name": "pre",
+    "company_name": "ascnoi",
     
-    "name": "Deepak Singh Negi",
-    "employee_id": "PS100036/84",
-    "designation": "IT Recruiter",
-    "pan_no": "CBNPN9509D",
-    "bank_no": "36492553060",
+    "name": "Abhishek kashyap",
+    "employee_id": "ASC100027/17",
+    "designation": "Helpdesk support Engineer",
+    "pan_no": "IQTPK3346E",
+    "bank_no": "906710110010588",
     
-    "initial_salary": 19800,
-    "payslip_ammount": 29300,
-    "increment_amount": 25300,
+    "initial_salary": 22800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
     
-    "email_id": "diipak.negi@gmail.com",
-    "phone_number": "9520264077",
+    "email_id": "abhishekkashyap@ascloudsecure.com",
+    "phone_number": "7225849443",
     
-    "offer_date": "2022-12-26",
-    "joining_date": "2023-01-02",
-    "increment_letter_date": "2024-01-06",
-    "increment_effective_date": "2024-01-06",
-    "last_working_date": "2025-11-29",
-    "release_date": "2025-11-29",
-    "email_date": "2025-10-29",
+    "offer_date": "2024-06-05",
+    "joining_date": "2024-06-12",
+    "increment_letter_date": "2025-06-06",
+    "increment_effective_date": "2025-06-06",
+    "last_working_date": "2025-12-31",
+    "release_date": "2025-12-31",
+    "email_date": "2025-12-01",
     
-    "payslip_month": 1, 
+    "payslip_month": 2, 
     "x": "is"
 }

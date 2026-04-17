@@ -4191,3 +4191,143 @@ employee = {
     "payslip_month": 3, 
     "x": "er"
 }
+
+{
+    "company_name": "pre",
+    
+    "name": "Deepak Singh Negi",
+    "employee_id": "PS100036/84",
+    "designation": "IT Recruiter",
+    "pan_no": "CBNPN9509D",
+    "bank_no": "36492553060",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 29300,
+    "increment_amount": 25300,
+    
+    "email_id": "diipak.negi@gmail.com",
+    "phone_number": "9520264077",
+    
+    "offer_date": "2022-12-26",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2024-01-06",
+    "increment_effective_date": "2024-01-06",
+    "last_working_date": "2025-11-29",
+    "release_date": "2025-11-29",
+    "email_date": "2025-10-29",
+    
+    "payslip_month": 1, 
+    "x": "is"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Shivaraj tambrali",
+    "employee_id": "ASC100027/16",
+    "designation": "It support engineer",
+    "pan_no": "BNMPT9468D",
+    "bank_no": "2349435512",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 25800,
+    "increment_amount": 32500,
+    
+    "email_id": "shivaraj2243@ascloudsecure.com",
+    "phone_number": "8073980418",
+    
+    "offer_date": "2023-11-16",
+    "joining_date": "2023-11-23",
+    "increment_letter_date": "2025-11-06",
+    "increment_effective_date": "2025-11-06",
+    "last_working_date": "2026-02-14",
+    "release_date": "2026-02-14",
+    "email_date": "2026-01-14",
+    
+    "payslip_month": 3, 
+    "x": "is"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "Varshini Gola",
+    "employee_id": "KA100036/81",
+    "designation": "IT Recruiter",
+    "pan_no": "DLDPG0729R",
+    "bank_no": "50100815020611",
+    
+    "initial_salary": 22117,
+    "payslip_ammount": 29250,
+    "increment_amount": 29250,
+    
+    "email_id": "varshinigolai@gmail.com",
+    "phone_number": "8073980418",
+    
+    "offer_date": "2024-01-02",
+    "joining_date": "2024-01-09",
+    "increment_letter_date": "2026-02-06",
+    "increment_effective_date": "2026-02-06",
+    "last_working_date": "2026-03-24",
+    "release_date": "2026-03-24",
+    "email_date": "2026-02-24",
+    
+    "payslip_month": 4, 
+    "x": "er"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Abhishek kashyap",
+    "employee_id": "ASC100027/17",
+    "designation": "Helpdesk support Engineer",
+    "pan_no": "IQTPK3346E",
+    "bank_no": "906710110010588",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 27800,
+    "increment_amount": 27800,
+    
+    "email_id": "abhishekkashyap@ascloudsecure.com",
+    "phone_number": "7225849443",
+    
+    "offer_date": "2024-06-05",
+    "joining_date": "2024-06-12",
+    "increment_letter_date": "2025-06-06",
+    "increment_effective_date": "2025-06-06",
+    "last_working_date": "2025-12-31",
+    "release_date": "2025-12-31",
+    "email_date": "2025-12-01",
+    
+    "payslip_month": 2, 
+    "x": "is"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "Himangshu Kalita",
+    "employee_id": "KA100036/82",
+    "designation": "Domestic IT Recruiter",
+    "pan_no": "LHTPK9117P",
+    "bank_no": "41191235347",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 22800,
+    "increment_amount": 25700,
+    
+    "email_id": "himangshukalita052@gmail.com",
+    "phone_number": "7577956945",
+    
+    "offer_date": "2025-02-05",
+    "joining_date": "2025-02-12",
+    "increment_letter_date": "2026-02-06",
+    "increment_effective_date": "2026-02-06",
+    "last_working_date": "2026-03-27",
+    "release_date": "2026-03-27",
+    "email_date": "2026-02-25",
+    
+    "payslip_month": 4, 
+    "x": "is"
+}
