@@ -4499,3 +4499,87 @@ employee = {
     "payslip_month": 11, 
     "x": "er"
     }
+
+    {
+    "company_name": "kas",
+    
+    "name": "Syed Shayan Shaukat Ali",
+    "employee_id": "KA100036/84",
+    "designation": "Supply Chain Executive",
+    "pan_no": "IPZPS6707C",
+    "bank_no": "37376775320",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "shayana23456@gmail.com",
+    "phone_number": "9833914729",
+    
+    "offer_date": "2024-03-20",
+    "joining_date": "2024-04-01",
+    "increment_letter_date": "2025-04-07",
+    "increment_effective_date": "2025-04-07",
+    "last_working_date": "2026-03-31",
+    "release_date": "2026-03-31",
+    "email_date": "2026-03-02",
+    
+    "payslip_month": 5, 
+    "x": "is"
+}
+
+{
+    "company_name": "asc",
+    
+    "name": "Padma Priya Dagani",
+    "employee_id": "ASC100027/19",
+    "designation": "IT Recruiter",
+    "pan_no": "HJBPD6449H",
+    "bank_no": "40451023298",
+    
+    "initial_salary": 23638,
+    "payslip_ammount": 30900,
+    "increment_amount": 30900,
+    
+    "email_id": "padmapriyadagani13@gmail.com",
+    "phone_number": "8331885150",
+    
+    "offer_date": "2023-11-01",
+    "joining_date": "2023-11-09",
+    "increment_letter_date": "2025-11-06",
+    "increment_effective_date": "2025-11-06",
+    "last_working_date": "2026-05-22",
+    "release_date": "2026-05-22",
+    "email_date": "2026-04-22",
+    
+    "payslip_month": 6, 
+    "x": "er"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "Janan Koh Ompap",
+    "employee_id": "KA100036/85",
+    "designation": "Senior HR Recruiter",
+    "pan_no": "ADMPO1651L",
+    "bank_no": "921010021927356",
+    
+    "initial_salary": 29100,
+    "payslip_ammount": 33600,
+    "increment_amount": 33600,
+    
+    "email_id": "janankoh2001@gmail.com",
+    "phone_number": "9365720906",
+    
+    "offer_date": "2024-08-07",
+    "joining_date": "2024-08-14",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2026-06-06",
+    "release_date": "2026-06-06",
+    "email_date": "2026-05-07",
+    
+    "payslip_month": 6, 
+    "x": "is"
+}
