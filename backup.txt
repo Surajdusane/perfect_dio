@@ -4611,3 +4611,87 @@ employee = {
     "payslip_month": 7, 
     "x": "er"
 }
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Naram Swamy",
+    "employee_id": "ASC100027/21",
+    "designation": "Technical support Engineer",
+    "pan_no": "CFXPN3487E",
+    "bank_no": "36985738484",
+    
+    "initial_salary": 28800,
+    "payslip_ammount": 34133,
+    "increment_amount": 34133,
+    
+    "email_id": "swamynaram@ascloudsecure.com",
+    "phone_number": "9392268946",
+    
+    "offer_date": "2024-08-01",
+    "joining_date": "2024-08-08",
+    "increment_letter_date": "2025-08-06",
+    "increment_effective_date": "2025-08-06",
+    "last_working_date": "2026-04-30",
+    "release_date": "2026-04-30",
+    "email_date": "2026-03-31",
+    
+    "payslip_month": 6, 
+    "x": "is"
+}
+
+{
+    "company_name": "kasnoi",
+    
+    "name": "Abhyudaya Misra",
+    "employee_id": "KA100036/86",
+    "designation": "Technical Recruiter",
+    "pan_no": "JDGPM3573N",
+    "bank_no": "6631544394",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 25300,
+    "increment_amount": 25300,
+    
+    "email_id": "abhyudayamisra25@gmail.com",
+    "phone_number": "7651833211",
+    
+    "offer_date": "2024-01-01",
+    "joining_date": "2024-01-08",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2026-06-23",
+    "release_date": "2026-06-23",
+    "email_date": "2026-05-23",
+    
+    "payslip_month": 7, 
+    "x": "er"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Pranab Kumar Swain",
+    "employee_id": "ASC100027/22",
+    "designation": "technical support engineer",
+    "pan_no": "NGHPS9924R",
+    "bank_no": "76570100018027",
+    
+    "initial_salary": 30800,
+    "payslip_ammount": 32274,
+    "increment_amount": 34500,
+    
+    "email_id": "pranabswain@ascloudsecure.com",
+    "phone_number": "7558597149",
+    
+    "offer_date": "2025-04-01",
+    "joining_date": "2025-04-07",
+    "increment_letter_date": "2026-04-06",
+    "increment_effective_date": "2026-04-06",
+    "last_working_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "email_date": "2026-04-29",
+    
+    "payslip_month": 7, 
+    "x": "is"
+}

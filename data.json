@@ -1,27 +1,27 @@
 {
     "company_name": "ascnoi",
     
-    "name": "Naram Swamy",
-    "employee_id": "ASC100027/21",
-    "designation": "Technical support Engineer",
-    "pan_no": "CFXPN3487E",
-    "bank_no": "36985738484",
+    "name": "Syed Naseer Affan",
+    "employee_id": "ASC100027/23",
+    "designation": "technical support engineer",
+    "pan_no": "DJQPA3472L",
+    "bank_no": "864110110018597",
     
-    "initial_salary": 28800,
-    "payslip_ammount": 34133,
-    "increment_amount": 34133,
+    "initial_salary": 22800,
+    "payslip_ammount": 29160,
+    "increment_amount": 25160,
     
-    "email_id": "swamynaram@ascloudsecure.com",
-    "phone_number": "9392268946",
+    "email_id": "snaseeraffan@ascloudsecure.com",
+    "phone_number": "9390479755",
     
-    "offer_date": "2024-08-01",
-    "joining_date": "2024-08-08",
-    "increment_letter_date": "2025-08-06",
-    "increment_effective_date": "2025-08-06",
-    "last_working_date": "2026-04-30",
-    "release_date": "2026-04-30",
-    "email_date": "2026-03-31",
+    "offer_date": "2023-12-08",
+    "joining_date": "2023-12-15",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "email_date": "2026-04-29",
     
-    "payslip_month": 6, 
+    "payslip_month": 7, 
     "x": "is"
 }
