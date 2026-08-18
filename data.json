@@ -1,27 +1,27 @@
 {
-    "company_name": "ascnoi",
+    "company_name": "kasnoidif",
     
-    "name": "Syed Naseer Affan",
-    "employee_id": "ASC100027/23",
+    "name": "Chinnannagari Anitha",
+    "employee_id": "KS88731",
     "designation": "technical support engineer",
-    "pan_no": "DJQPA3472L",
-    "bank_no": "864110110018597",
+    "pan_no": "FFMPA8973L",
+    "bank_no": "33732010033708",
     
-    "initial_salary": 22800,
-    "payslip_ammount": 29160,
-    "increment_amount": 25160,
+    "initial_salary": 20800,
+    "payslip_ammount": 16400,
+    "increment_amount": 22800,
     
-    "email_id": "snaseeraffan@ascloudsecure.com",
-    "phone_number": "9390479755",
+    "email_id": "chinnannagarianitha@kasperanalytics.com",
+    "phone_number": "9392885631",
     
-    "offer_date": "2023-12-08",
-    "joining_date": "2023-12-15",
-    "increment_letter_date": "2024-12-06",
-    "increment_effective_date": "2024-12-06",
-    "last_working_date": "2026-05-29",
-    "release_date": "2026-05-29",
-    "email_date": "2026-04-29",
+    "offer_date": "2024-01-15",
+    "joining_date": "2024-01-22",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-05-22",
+    "release_date": "2025-05-22",
+    "email_date": "2025-04-22",
     
     "payslip_month": 7, 
-    "x": "is"
+    "x": "er"
 }

@@ -90,7 +90,7 @@ def create_payslip(company_name, month, date_of_joining, pan_no, bank_no, name, 
             previous_month = ((current_month - 1) % 12) or 12  # Convert 0 to 12 for December
 
             if current_month > 6:
-                current_year = year - 1
+                current_year = year
             else:
                 current_year = year
             

@@ -4695,3 +4695,283 @@ employee = {
     "payslip_month": 7, 
     "x": "is"
 }
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Syed Naseer Affan",
+    "employee_id": "ASC100027/23",
+    "designation": "technical support engineer",
+    "pan_no": "DJQPA3472L",
+    "bank_no": "864110110018597",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 29160,
+    "increment_amount": 25160,
+    
+    "email_id": "snaseeraffan@ascloudsecure.com",
+    "phone_number": "9390479755",
+    
+    "offer_date": "2023-12-08",
+    "joining_date": "2023-12-15",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2026-05-29",
+    "release_date": "2026-05-29",
+    "email_date": "2026-04-29",
+    
+    "payslip_month": 7, 
+    "x": "is"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Amaan Ali",
+    "employee_id": "ASC100027/25",
+    "designation": "technical support",
+    "pan_no": "ECOPA7836L",
+    "bank_no": "40313954794",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 23800,
+    "increment_amount": 23800,
+    
+    "email_id": "amaanali@ascloudsecure.com",
+    "phone_number": "7991180171",
+    
+    "offer_date": "2024-09-04",
+    "joining_date": "2024-09-11",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2026-07-21",
+    "release_date": "2026-07-21",
+    "email_date": "2026-06-20",
+    
+    "payslip_month": 8, 
+    "x": "is"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Yashraj Brijeshkumar Upadhyay",
+    "employee_id": "ASC100027/24",
+    "designation": "technical support engineer",
+    "pan_no": "AKFPU2456B",
+    "bank_no": "558502010166632",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 30000,
+    "increment_amount": 25000,
+    
+    "email_id": "yashrajupadhyay@ascloudsecure.com",
+    "phone_number": "8788549601",
+    
+    "offer_date": "2023-12-11",
+    "joining_date": "2023-12-18",
+    "increment_letter_date": "2024-12-06",
+    "increment_effective_date": "2024-12-06",
+    "last_working_date": "2026-04-29",
+    "release_date": "2026-04-29",
+    "email_date": "2026-03-30",
+    
+    "payslip_month": 6, 
+    "x": "is"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Amaan Ali",
+    "employee_id": "ASC100027/25",
+    "designation": "technical support",
+    "pan_no": "ECOPA7836L",
+    "bank_no": "40313954794",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 23800,
+    "increment_amount": 23800,
+    
+    "email_id": "amaanali@ascloudsecure.com",
+    "phone_number": "7991180171",
+    
+    "offer_date": "2024-09-04",
+    "joining_date": "2024-09-11",
+    "increment_letter_date": "2025-09-06",
+    "increment_effective_date": "2025-09-06",
+    "last_working_date": "2026-07-10",
+    "release_date": "2026-07-10",
+    "email_date": "2026-06-10",
+    
+    "payslip_month": 8, 
+    "x": "is"
+}
+
+{
+    "company_name": "kas",
+    
+    "name": "Roseline M",
+    "employee_id": "KA100036/87",
+    "designation": "IT  Recruiter",
+    "pan_no": "DWOPR8257P",
+    "bank_no": "50100270823692",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "roseline.moparthy@gmail.com",
+    "phone_number": "7022331857",
+    
+    "offer_date": "2024-06-20",
+    "joining_date": "2024-06-27",
+    "increment_letter_date": "2025-06-06",
+    "increment_effective_date": "2025-06-06",
+    "last_working_date": "2025-07-17",
+    "release_date": "2025-07-17",
+    "email_date": "2025-06-17",
+    
+    "payslip_month": 8, 
+    "x": "er"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Pranab Kumar Swain",
+    "employee_id": "ASC100027/22",
+    "designation": "technical support engineer",
+    "pan_no": "NGHPS9924R",
+    "bank_no": "76570100018027",
+    
+    "initial_salary": 30800,
+    "payslip_ammount": 34500,
+    "increment_amount": 34500,
+    
+    "email_id": "pranabswain@ascloudsecure.com",
+    "phone_number": "7558597149",
+    
+    "offer_date": "2025-04-01",
+    "joining_date": "2025-04-07",
+    "increment_letter_date": "2026-04-06",
+    "increment_effective_date": "2026-04-06",
+    "last_working_date": "2026-07-29",
+    "release_date": "2026-07-29",
+    "email_date": "2026-04-29",
+    
+    "payslip_month": 7, 
+    "x": "is"
+}
+
+{
+    "company_name": "pre",
+    
+    "name": "Keerthi vasan",
+    "employee_id": "PS100036/81",
+    "designation": "IT Recruiter",
+    "pan_no": "KPSPK2786A",
+    "bank_no": "61762210010773",
+    
+    "initial_salary": 21550,
+    "payslip_ammount": 25700,
+    "increment_amount": 25700,
+    
+    "email_id": "vasankeerthi245@gmail.com",
+    "phone_number": "9952340670",
+    
+    "offer_date": "2024-03-25",
+    "joining_date": "2024-04-01",
+    "increment_letter_date": "2025-04-07",
+    "increment_effective_date": "2025-04-07",
+    "last_working_date": "2025-10-03",
+    "release_date": "2025-10-03",
+    "email_date": "2025-09-04",
+    
+    "payslip_month": 10, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "asc",
+    
+    "name": "Priti yogesh mangate",
+    "employee_id": "ASC100027/26",
+    "designation": "IT Recruiter",
+    "pan_no": "HGLPM5866E",
+    "bank_no": "50100615702172",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 29900,
+    "increment_amount": 25900,
+    
+    "email_id": "bordepriti18@gmail.com",
+    "phone_number": "9028971018",
+    
+    "offer_date": "2024-01-01",
+    "joining_date": "2024-01-05",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2026-08-10",
+    "release_date": "2026-08-10",
+    "email_date": "2026-07-11",
+    
+    "payslip_month": 9, 
+    "x": "er"
+}
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Chinnannagari Anitha",
+    "employee_id": "ASC100027/18",
+    "designation": "technical support engineer",
+    "pan_no": "FFMPA8973L",
+    "bank_no": "33732010033708",
+    
+    "initial_salary": 31800,
+    "payslip_ammount": 16800,
+    "increment_amount": 31800,
+    
+    "email_id": "chinnannagarianitha@ascloudsecure.com",
+    "phone_number": "9392885631",
+    
+    "offer_date": "2025-12-15",
+    "joining_date": "2025-12-22",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2026-07-16",
+    "release_date": "2026-07-16",
+    "email_date": "2026-06-16",
+    
+    "payslip_month": 9, 
+    "x": "er"
+}
+
+{
+    "company_name": "kasnoidif",
+    
+    "name": "Chinnannagari Anitha",
+    "employee_id": "KS88731",
+    "designation": "technical support engineer",
+    "pan_no": "FFMPA8973L",
+    "bank_no": "33732010033708",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 16400,
+    "increment_amount": 22800,
+    
+    "email_id": "chinnannagarianitha@kasperanalytics.com",
+    "phone_number": "9392885631",
+    
+    "offer_date": "2024-01-15",
+    "joining_date": "2024-01-22",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-05-22",
+    "release_date": "2025-05-22",
+    "email_date": "2025-04-22",
+    
+    "payslip_month": 7, 
+    "x": "er"
+}
