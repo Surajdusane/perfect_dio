@@ -5199,3 +5199,87 @@ employee = {
     "payslip_month": 3, 
     "x": "er"
 }
+
+    {
+    "company_name": "pre",
+    
+    "name": "Praveen Kumar M",
+    "employee_id": "PS100036/80",
+    "designation": "Admin Executive",
+    "pan_no": "DBSPM0545J",
+    "bank_no": "20335569262",
+    
+    "initial_salary": 25800,
+    "payslip_ammount": 30800,
+    "increment_amount": 30800,
+    
+    "email_id": "praveensundaram98@gmail.com",
+    "phone_number": "9952956573",
+    
+    "offer_date": "2023-08-01",
+    "joining_date": "2023-08-04",
+    "increment_letter_date": "2024-08-06",
+    "increment_effective_date": "2024-08-06",
+    "last_working_date": "2025-01-31",
+    "release_date": "2025-01-31",
+    "email_date": "2025-01-01",
+    
+    "payslip_month": 3, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "rcms",
+    
+    "name": "Yashas Sanjay Manohar",
+    "employee_id": "PRS100027/16",
+    "designation": "CUSTOMER SUPPORT ASSOCIATE",
+    "pan_no": "GUMPM1349L",
+    "bank_no": "60388049957",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28800,
+    "increment_amount": 28800,
+    
+    "email_id": "yashasmanohar.92@gmail.com",
+    "phone_number": "7738225001",
+    
+    "offer_date": "2023-09-25",
+    "joining_date": "2023-10-04",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-03-28",
+    "release_date": "2025-03-28",
+    "email_date": "2025-02-28",
+    
+    "payslip_month": 4, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "asc",
+    
+    "name": "Awadhesh Kumar Pal",
+    "employee_id": "ASC100027/28",
+    "designation": "Technical Support Engineer",
+    "pan_no": "",
+    "bank_no": "",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28800,
+    "increment_amount": 28800,
+    
+    "email_id": "awadhehskpal1998@gmail.com",
+    "phone_number": "6393219311",
+    
+    "offer_date": "2023-09-25",
+    "joining_date": "2023-10-04",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-03-28",
+    "release_date": "2025-03-28",
+    "email_date": "2026-09-15",
+    
+    "payslip_month": 4, 
+    "x": "is"
+    }
