@@ -5283,3 +5283,142 @@ employee = {
     "payslip_month": 4, 
     "x": "is"
     }
+        {
+    "company_name": "rcms",
+    
+    "name": "Yashas Sanjay Manohar",
+    "employee_id": "PRS100027/16",
+    "designation": "CUSTOMER SUPPORT ASSOCIATE",
+    "pan_no": "GUMPM1349L",
+    "bank_no": "60388049957",
+    
+    "initial_salary": 19800,
+    "payslip_ammount": 28800,
+    "increment_amount": 28800,
+    
+    "email_id": "yashasmanohar.92@gmail.com",
+    "phone_number": "7738225001",
+    
+    "offer_date": "2023-09-25",
+    "joining_date": "2023-10-04",
+    "increment_letter_date": "2024-10-07",
+    "increment_effective_date": "2024-10-07",
+    "last_working_date": "2025-03-28",
+    "release_date": "2025-03-28",
+    "email_date": "2025-02-28",
+    
+    "payslip_month": 4, 
+    "x": "is"
+    }
+
+        {
+    "company_name": "kas",
+    
+    "name": "R VISHNUKANTH",
+    "employee_id": "KA100036/53",
+    "designation": "US IT Recruiter",
+    "pan_no": "BQLPV4036R",
+    "bank_no": "061201000053258",
+    
+    "initial_salary": 20800,
+    "payslip_ammount": 29300,
+    "increment_amount": 23800,
+    
+    "email_id": "vishnukanth889@gmail.com",
+    "phone_number": "8838606628",
+    
+    "offer_date": "2023-07-26",
+    "joining_date": "2023-08-01",
+    "increment_letter_date": "2023-08-07",
+    "increment_effective_date": "2023-08-07",
+    "last_working_date": "2025-02-21",
+    "release_date": "2025-02-21",
+    "email_date": "2025-01-21",
+    
+    "payslip_month": 3, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "kas",
+    
+    "name": "A K Mohanram",
+    "employee_id": "PS100036/61",
+    "designation": "Junior Project Manager",
+    "pan_no": "DFUPM3643R",
+    "bank_no": "0000000675706511",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 22800,
+    "increment_amount": 25800,
+    
+    "email_id": "mohanram44zz@gmail.com",
+    "phone_number": "7299101431",
+    
+    "offer_date": "2023-04-26",
+    "joining_date": "2023-05-02",
+    "increment_letter_date": "2024-06-07",
+    "increment_effective_date": "2024-06-07",
+    "last_working_date": "2025-05-31",
+    "release_date": "2025-05-31",
+    "email_date": "2025-05-01",
+    
+    "payslip_month": 1, 
+    "x": "is"
+    }
+
+{
+    "company_name": "ascnoi",
+    
+    "name": "Sai Rohith Singh Thakur",
+    "employee_id": "ASC100027/29",
+    "designation": "Technical Support Engineer",
+    "pan_no": "BSXPT4996E",
+    "bank_no": "80810100000579",
+    
+    "initial_salary": 32800,
+    "payslip_ammount": 38500,
+    "increment_amount": 38500,
+    
+    "email_id": "sairohithsingh1@gmail.com",
+    "phone_number": "8074556017",
+    
+    "offer_date": "2025-01-06",
+    "joining_date": "2025-01-27",
+    "increment_letter_date": "2026-01-07",
+    "increment_effective_date": "2026-01-07",
+    "last_working_date": "2026-09-21",
+    "release_date": "2026-09-21",
+    "email_date": "2026-08-22",
+    
+    "payslip_month": 11, 
+    "x": "is"
+    }
+
+    {
+    "company_name": "asc",
+    
+    "name": "Deepak Singh Negi",
+    "employee_id": "ASC100027/30",
+    "designation": "HR Operations",
+    "pan_no": "CBNPN9509D",
+    "bank_no": "36492553060",
+    
+    "initial_salary": 22800,
+    "payslip_ammount": 29300,
+    "increment_amount": 29300,
+    
+    "email_id": "diipak.negi@gmail.com",
+    "phone_number": "9520264077",
+    
+    "offer_date": "2022-12-26",
+    "joining_date": "2023-01-02",
+    "increment_letter_date": "2025-01-06",
+    "increment_effective_date": "2025-01-06",
+    "last_working_date": "2025-11-29",
+    "release_date": "2025-11-29",
+    "email_date": "2025-10-29",
+    
+    "payslip_month": 1, 
+    "x": "is"
+}
